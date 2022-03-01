@@ -1,0 +1,1214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the proceedings of W. Carter being a plea to some objections urged against him.</title>
+            <author>Carter, W. (William)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 140 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18514</idno>
+            <idno type="STC">Wing C669</idno>
+            <idno type="STC">ESTC R19611</idno>
+            <idno type="EEBO-CITATION">11761937</idno>
+            <idno type="OCLC">ocm 11761937</idno>
+            <idno type="VID">48712</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B18514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48712)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 19:3 or 1566:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the proceedings of W. Carter being a plea to some objections urged against him.</title>
+                  <author>Carter, W. (William)</author>
+               </titleStmt>
+               <extent>[14], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Item at reel 19:3 identified as Wing C676A (number cancelled).</note>
+                  <note>Reproduction of originals in the Columbia University Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wool industry --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48712:1"/>
+            <pb facs="tcp:48712:1" rendition="simple:additions"/>
+            <p>AN ABSTRACT OF THE PROCEEDINGS OF W. CARTER; Being a PLEA TO SOME OBJECTIONS Urged againſt HIM.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for the Author, MDCXCIV.</p>
+            <pb facs="tcp:48712:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:48712:2"/>
+            <head>TO THE Merchants, Clothiers, and Drapers, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Have for Twenty four Years, uſed my endeavours not only to prevent the Loſs of your Trade in the Woollen Manufacture (ſet up in <hi>France,</hi> with <hi>Engliſh,</hi> and <hi>Iriſh</hi> Wooll) and the Impor<g ref="char:EOLhyphen"/>tation of <hi>French</hi> Silks, Stuffs, and Lace, <hi>&amp;c.</hi> But alſo uſed my utmoſt to regulate the abuſes in the Aulnage (notwithſtanding the objections againſt me) what Steps I made in both, are in part contained in the following Diſcourſe.</p>
+            <p>In which I have demonſtrated, that my labour was not alto<g ref="char:EOLhyphen"/>gether Fruitleſs, againſt the deſigns of <hi>France;</hi> notwithſtanding all the Craft, and Bribes of <hi>French</hi> Agents, by all the Intereſt they had in our Court the two laſt Reigns; both by ſecret diſguiſe, and open violence, and alſo endeavouring by a Law to ruine our Trade under a very fair and plauſible pretence: Which, give me leave to ſay, that had not the War fell out as it did, we ſhould have hard<g ref="char:EOLhyphen"/>ly been able to keep that Trade we now have; although I had frequent Acceſs to that Government, and did by that means put a ſtop at ſeveral times to it, as in part, in the cloſe of this and ano<g ref="char:EOLhyphen"/>ther Diſcourſe doth more fully appear.</p>
+            <p>You cannot but know (at leaſt many of you) that I Printed my ſentiments in the Year 1669. and Re-printed the ſame in the Year 1671. with ſome enlargement of what evil conſequence the Ex<g ref="char:EOLhyphen"/>portation of Wooll to <hi>France</hi> was.</p>
+            <pb facs="tcp:48712:3"/>
+            <p>And in the following Year, <hi>(viz.)</hi> 72. Wrote an Advertiſement to you therein, an Abſtract of which is included in this Paper, to<g ref="char:EOLhyphen"/>gether with what paſt in the Years, 1676, and 77.</p>
+            <p>But, Sirs, I am now growing Old, being upward of Sixty Years, having ſpent the prime of my Years in your Service, with very many hardſhips, Watchings, and Dangers, when you have taken your R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt, and improved your time, for your particular and pri<g ref="char:EOLhyphen"/>vate advantage: It cannot in reaſon now (at this Age) be ex<g ref="char:EOLhyphen"/>pected that I ſhould act in that Poſt much longer; and although upon that account it's not probable I may be able to perform thoſe Services in Travels and Watchings, as formerly on the Sea-Coaſt, yet nothing ſhall be wanting on my part (here at the Helm) which I am capable of, for the promoting of your real Intereſt, and by in<g ref="char:EOLhyphen"/>ſtructing ſuch as may for the future be employed by you.</p>
+            <p>Having given ſome hints about the Trade of <hi>France,</hi> of my en<g ref="char:EOLhyphen"/>deavours to prevent it, I ſhall crave leave to ſpeak ſomething about the Aulnage. When I was attending the Council and Parliament about the Wooll-Affair, I was by ſome Merchants and Drapers in <hi>London,</hi> put upon the Redreſſing thoſe abuſes then complained of, and was by them deſired to Print a Paper containing the ſame; and by my omitting a Licence, was for that reaſon clapt up in the Gate Houſe, which was not a little coſt to me; notwith<g ref="char:EOLhyphen"/>ſtanding that diſcouragement, in purſuance of the Deputation, I afterwards received, both from Drapers and ſome others dealing in the Woollen Manufacture, <hi>(Viz)</hi>
+            </p>
+            <floatingText xml:lang="eng" type="deputation">
+               <body>
+                  <p>WEE Whoſe Names are Subſcribed Woollen-Drapers, of <hi>Winton</hi> and <hi>Alsford,</hi> having been for ſeveral Years laſt paſt expoſed to great trouble, with the Officers of the Aulnage; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> their entring our Shops, and carrying away our Goods from us, to the diſturbance of us in our Trade, and prejudice of our Goods, thereby to force us to a Compoſition with them; which we have been forced to do. ſome of Ten Pounds, others Five Pounds, and Annually, ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me Thirty, and others Twenty Shillings, to free us from future trou<g ref="char:EOLhyphen"/>ble: Do therefore Authorize our Worthy Friend Mr. <hi>William Carter,</hi>
+                     <pb facs="tcp:48712:3"/> as our Agent, and Atturney, to Appear, Petition and preſent for us, unto, and before His Majeſty and Council, and before the Parliament, whenſoever they ſhall be Aſſembled for the removeal of the aforeſaid abuſes, and preventing of ſuch abuſes for time to come; and to do all other things Lawful in and about the ſame, and to all and do for us, in ſuch Lawful way and manner, as by Council ſhall be ad<g ref="char:EOLhyphen"/>viſed, as fully, and effectually as if we were, or might in our own Perſons do the ſame:</p>
+                  <closer>
+                     <date>Witneſs our Hands the 14th Day of <hi>June,</hi> 1671.</date> 
+                     <signed>William Harwood, Tho. Wavell, Godſon Penton, Thomas Munday, Edward Grace, Wiliam Smith, and Tho. Standen.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Another Deputation from the dealers in the Woollen Manu<g ref="char:EOLhyphen"/>facturies, of ſeveral Counties in</hi> England, <hi>and particularly of</hi> Exon, <hi>thus Worded,</hi> (Viz.)</p>
+            <floatingText xml:lang="eng" type="deputation">
+               <body>
+                  <p>
+                     <hi>WE whoſe Names are Subſcribed Manufactures of Wooll, for the Counties of</hi> Devon, <hi>and</hi> Summerſet, <hi>&amp;c. Having conſidered as well in what we know, as by the Information we have received from other parts of this Kingdom; the great abuſes that have been done to us, and other Manufactures, by ſuch as have been employed in the Office of Aulnage,</hi> &amp;c.</p>
+                  <closer>
+                     <date>The Deputation is <hi>Verbatim</hi> as before, only the Date is the 12th of <hi>May,</hi> 71.</date> 
+                     <signed>Signed by <hi>Thomas Criſpin,</hi> and many hundred of others.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>I ſay, in purſuance of the ſaid Deputations, when proſecuting ſome of thoſe abuſes, and being in the Court of Exchequer, in the Year 1673. tho' then complained againſt by the Council for the then Farmers of the Counties of <hi>Suffolk</hi> and <hi>Eſſex:</hi> Yet was then juſtified in open Court by the then Lord Chief Barron, purſuant to a Report to the King and Council made by his Lordſhip Two Years before; as may appear by a Copy thereof, in Page 6th. I am ſorry, I have the occaſion to make an Apology to you upon this Head, whom I have ſo freely ſerved; and to ſay ſome<g ref="char:EOLhyphen"/>thing firſt of the occaſion of the Bill<g ref="char:punc">▪</g> by which ſo much trouble was about it, and to no purpoſe but rather prevented another Bill which would have paſt, to have put the Laws in Execution
+<pb facs="tcp:48712:4"/> againſt the Exportation of Wooll, and alſo to have Regulated the abuſes of the Aulnage.</p>
+            <p>The reaſon of the complaint in Parliament, was occaſioned by the differing lengths of ſome of <hi>Gloſter</hi> Cloths, not to ſay by a Clothier himſelf of that County; but before the Bill was brought into the Houſe of Commons, I had ſeveral meetings with the Agent, and told him that if he would attend the Kings Council, I would perſuade the Farmers to conſent to ſuch a Bill, as that no oppoſition could be made againſt it. I remember, I was then go<g ref="char:EOLhyphen"/>ing to <hi>Maidſtone</hi> Aſſizes, to proſecute ſome Exporters of Wooll, and whilſt I was there, the Bill was brought into the Houſe of Commons, which hath occaſioned ſo much trouble, not only to no purpoſe, but alſo prevented ſuch a Bill which would have an<g ref="char:EOLhyphen"/>ſwered the ends of all parties.</p>
+            <p>The Bill which was ſo long depending, was to Transfer the Collecting the Subſidy of Aulnage at the Cuſtom-Houſe; and to ſubject it to all the Laws againſt Frauds in the Cuſtoms, and the duties to be paid there, by the Merchant, and by him to be diſ<g ref="char:EOLhyphen"/>counted with the Clothier, for the ſame, upon a ſuppoſition that it would ſave charge, and by that means pay the D. of <hi>Rich<g ref="char:EOLhyphen"/>mond,</hi> and thoſe concerned in Intereſt; and alſo be an overplus to defray the neceſſary expence in preventing the Exportation of Wooll; which Bill, after the ſeveral Hearings and Examinations, inſtead of doing both, it did not anſwer one in that manner, be<g ref="char:EOLhyphen"/>ſides the inevitable Trouble and Controverſie betwixt the Mer<g ref="char:EOLhyphen"/>chant and Clothier, for that ſome of the Woollen Manufacture, pays Cuſtom by weight, and ſome by the piece; when at preſent the Aulnage pays all by the piece.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:48712:4"/>
+            <head>THE PREFACE.</head>
+            <p>IT may ſeem ſtrange to ſome that after Twenty four Years time, the extence of my Eſtate, looſing a profitable Trade, and adventuring my life ſo often, as one Action, inſtead of many, ſet down in the cloſe of this Paper, that after all this am conſtrain'd to make an Apology to thoſe, and for whoſe Intereſt I have, with ſo much candour and freedom, to my own loſs, expos'd my ſelf; I muſt confeſs, I expected better uſage from ſome than I have as yet received; but ſince moſt cannot be ignorant of the Truth of this Abſtracted Narrative of my Proceed<g ref="char:EOLhyphen"/>ings, and that in it I have eſpouſed your Cauſe, and engaged in your Quarrel, and ſo long fought your Battels, it will not, I hope, be thought unreaſonable, if I do now expect but what is juſt and equitable from reaſonable Men; but inſtead there<g ref="char:EOLhyphen"/>of, it hath not been a little ſurprize to me, to ſee a Paper Intituled, <hi>The Caſe of the Merchants, Clothiers, Drapers, &amp;c.</hi> with relation to the abuſe of the Aul<g ref="char:EOLhyphen"/>nages, wherein I am there named <hi>Wool-Carter,</hi> as a perſon ſeemingly juſtifying the ſaid abuſes, and contradicting m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> former practice, and thereby oppoſing a regu<g ref="char:EOLhyphen"/>lating thoſe abuſes, which charge, if true, I muſt confeſs, that a Face of Braſs is proper for me; but if the contrary appear, it will return upon the Author of that Paper, as a <hi>Falſe Accuſer,</hi> but if it had been done by the advice and conſent of thoſe perſons therein named, then I muſt ſay its hard, for me, and creates not a little trouble to be wounded in the Houſe of my Friends, and at ſuch a time, when I was with ſo much affection, great difficulty and hazard, purſuing their real In<g ref="char:EOLhyphen"/>tereſt, in that affair wherein they have nam'd me, and more particularly endeavou<g ref="char:EOLhyphen"/>ring to prevent all Trade, Commerce and Correſpondency with <hi>France,</hi> in which I have not ſtuck at any pains and difficulty in the Service; but for aſmuch as the ſaid Paper was Publiſhed (as I was informed) not only without the knowledge of moſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the perſons therein named, but againſt the advice of ſome of thoſe that did appear at <hi>Parliament,</hi> in purſuance of the deſign in promoting the Bill that have been de<g ref="char:EOLhyphen"/>pending, and miſcarried in Four Seſſions of Parliament.</p>
+            <p>As for the Charge given againſt me, give me leave to anſwer for my ſelf, which Charge is, <hi>viz. We are very ſenſible of the ſeveral Artifices us'd to oppoſe the Bill, amongſt the numbers employ'd therein, there is one known by the name of</hi> Wooll-Carter, <hi>who was formerly a zealous Solicitor againſt the</hi> Aulnage-Office, <hi>but now by reaſon of yearly payment, is become their friend, this Man pretending himſelf a friend to the Shop-keepers, have in ſeveral Seſſions ſent down Printed-Forms of Letters to a great many Corporations, for them to Tranſcribe and Subſcribe, and direct to their Parliament-Men the ſubſtance of the Letters were to pray them to oppoſe the Bill, and think of ſome other method for the eaſe of the Shop-keepers.</hi> Which Charge being anſwered by ano<g ref="char:EOLhyphen"/>ther hand, I ſhall ſay the leſs to it now, only this, that I was not only a pretender, but a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eal friend to the Shop-keepers, for it's matter of fact, that I did not only proſecute the ſeveral Petitions of the Shop-keepers in moſt Counties in <hi>England,</hi> the ſeve<g ref="char:EOLhyphen"/>ral Seſſions of Parliament, from the year 1673 to 81. moſt upon my own coſt, but when I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> do no good in Parliament, by all that labour and time expended, an opportuni<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was put into my hand by m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ns of ſome friend of mine, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome great
+<pb facs="tcp:48712:5"/> figure, that I purchaſed the freedom for the ſaid Shop-keepers, without any coſt to them and likewiſe endeavoured to have ſo ſettled it by a Law, that it ſhould not be in the power of any <hi>Aulnager</hi> to have given them any manner of diſturbance; and alſo, to have a Seal of content for the Honour and Reputation of the Woollen Manufacture it ſelf, and Credit of the Clothier, and to prevent all manner of diſputes and controverſies betwixt all perſons concerned; which, I think, is more than a <hi>pretence of kindneſs.</hi>
+            </p>
+            <p>But whilſt I was purſuing this latter deſign, I was by the importunity of ſeveral eminent Merchants and Factors in <hi>London,</hi> taken off the ſaid Service to prevent the Exportation of Wooll, what I did in that affair is hereafter more enlarged, which I think I need not to make any further Apology, and may ſay 'tis a <hi>manifeſt Aſperſion,</hi> cauſleſly charged upon me.</p>
+            <p>Then as to my ſending Printed Forms of Letters for the Shop-keepers to trans<g ref="char:EOLhyphen"/>ſcribe and ſubſcribe, and ſend it to their Parliament-Men, I own it, being their deſire, not only when I have been in the Country with them, but when in <hi>London</hi> they have wrote to me, to ſend them Forms of Letters to anſwer their deſires.</p>
+            <p>As to the Charge againſt me being formerly a zealous Solicitor againſt the <hi>Aul<g ref="char:EOLhyphen"/>nage-Office,</hi> but now am become their friend, tho' I have in a ſenſe anſwered this charge before, yet I ſhall be now more full in it; for as I was the perſon that con<g ref="char:EOLhyphen"/>tracted for the whole Farm, ſo I was by that means made more capable to free the Shop-keepers from thoſe abuſes put upon them by the former <hi>Aulnagers,</hi> which give me leave here to relate ſome of them, <hi>viz.</hi> The firſt complaint I produced at a Committee in the year 1673. was four Shop-keepers' in the County of <hi>Eſſex</hi> paid as a Fine and other Fees the ſum of one hundred and ſixty Pounds, and forc'd to promiſe to pay them yearly ſeveral ſums of Money to free them from future trouble; and amongſt many more at <hi>Wincheſter, Windſor,</hi> and other places, there was one <hi>James Smith</hi> of <hi>Eaton,</hi> ſince dead, was at the expence of about four-ſcore Pounds, and being but a young man was ruin'd in his Trade, by his being impriſoned, and his Goods lay a long time under Seiſure, and no cauſe for it, Fleven half pieces of Broad-Cloth, ſome being the latter ends of the Cloths, where the Seal is not uſu<g ref="char:EOLhyphen"/>ally fixed, and the <hi>Aulnager,</hi> without further examination, took away the others that had Seals upon them, all which was fully proved before the ſaid Committee; all this trouble and charge was becauſe he did Replevy his Cloth which the <hi>Aulnager</hi> had ſeiſed.</p>
+            <p>Let me odd one inſtance of my own caſe by the ſame <hi>Aulnagers,</hi> having ſent a <hi>Spaniſh</hi> Black-Cloth to a Draper in <hi>Portſmouth,</hi> in value about 26 l. which Cloth was rightly Seal'd and fixed at the head-end of the Cloth, but the <hi>Aulnagers</hi> pretending no Seal, took away the Cloth, and carried it away to their Lodging, the Draper having not the liberty to examine the ſame, was forc'd to pay them down five Pounds, and immediately found by opening the Cloth the Seal fixed as before, notwithſtanding which the ſaid <hi>Aulnager</hi> would not repay the five Pounds, I was forc'd to allow the Shop-keeper, or elſe have loſt his Cuſtom, and run the hazard of a Suit at Law for my Money.</p>
+            <p>So that my Proceedings were not againſt the <hi>Office of Aulnage,</hi> but againſt ſuch abuſes, which being by me regulated, as before, I ought not in juſtice to ſuffer for my <hi>Real Service.</hi>
+            </p>
+            <closer>
+               <signed>W. C.</signed>
+            </closer>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:48712:5"/>
+            <head>Give me leave to add the Teſtimony of another Perſon, who to ſome it may be thought ſtrange; ſeeing he himſelf was a Farmer of ſix Counties, and by my means loſt his Farm.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>UPON The peruſal of a Paper Intituled, The Caſe of the Clothiers, Weavers, Merchants, Drapers and Mercers, about the abuſes of the Aulnagers; I find Mr. <hi>Carter</hi> is there reflected on, as a perſon inconſiſtent with himſelf; and the better to deſcribe him, he is Charactered by the Appellation of <hi>Wooll Carter:</hi> I muſt confeſs it's a ſtrange way of requital, to him that hath ſo viſibly ſerved not only the Nation in general, but thoſe in particular whoſe Name the Paper bears. Now in regard I have known Mr. <hi>Carter</hi> many years; (tho' the occaſion, to ſome, would think it ſtrange, that by his means was put out of a Farm, for ſix Counties, for the ſubſidy of Aulnage; yet in as much as I found in his proceedings, preferring the publick before his private Intereſt, and tho' an Enemy, yet acting fairly and above board:) I could not but do him Juſtice, in vindicating his proceedings, not<g ref="char:EOLhyphen"/>withſtanding my own Loſs by him.</p>
+            <p>The ſaid Mr. <hi>Carter,</hi> 1673. in purſuance of a Deputation he received both from Drapers and others, Solicited in the Houſe of Commons, in the Name of the Drapers, in the Counties of <hi>He<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ford, Eſſex,</hi> and <hi>Berks;</hi> the matter of the Complaint he hath al<g ref="char:EOLhyphen"/>ready mentioned in this Preface, but the Parliament being then at that time Prorogued, nothing more then was done by him.</p>
+            <p>In the Year 1675. he revived the ſame Petition, and ſolicited that, and many other Petitions, and ſeveral hearings were had,
+<pb facs="tcp:48712:6"/> and thereupon divers Councels were retained by him; and the Par<g ref="char:EOLhyphen"/>liament ſoon after being again Prorogued, nothing could be more done till the next Seſſion, <hi>(viz.)</hi> 1677, and 78. And then the whole was Re-heard, and the Houſe of Commons came to theſe Votes, thereupon. <hi>(Viz.)</hi>
+            </p>
+            <p n="1">1. That the Subſidy of Aulnage, ought to be paid by the makers of the Woollen Manufacture, and not by the Re<g ref="char:EOLhyphen"/>taylers, or any other perſons whatſoever.</p>
+            <p n="2">2. That the Aulnagers ſearching of Waggons, and Packs on the Road was an abuſe.</p>
+            <p n="3">3. That the Aulnagers making Drapers, and other Retaylers to pay Yearly Compoſitions for not ſearching their Shops and Ware-houſes was an abuſe.</p>
+            <p>And a Bill accordingly was ordered to be brought in, to Redreſs the ſaid abuſes, but the Parliament was then again Prorogued.</p>
+            <p>Shortly after ſundry perſons having taken a Farm of the ſaid Subſidies, and Duties for <hi>London</hi> and <hi>Middleſex;</hi> and in order to take the whole Farm of <hi>England,</hi> (as was deſigned to be ſo let) con<g ref="char:EOLhyphen"/>tracted with many Factors and Ware-houſe Men in the City, for Annual Rents; not to ſearch their Goods, thereby to make the other Farmers of the ſeveral Counties unable to pay their Rents, when the Seal of one Cloth or Stuff was made uſe for ſeveral other Pieces, and to be able to give a greater Fine for the whole than any others; they did deſign, as ſoon they had contracted for the whole, to break off thoſe Agreements in <hi>London,</hi> when the Year was out, and to make Seiſure of what Goods they ſhould then find unſealed, and to do the like in all Corporations, and other Towns in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> by the Officers of the Exciſe; by which oppreſſive Action they might have got great Summs of Money, which deſign coming to the Ear of Mr. <hi>Carter,</hi> he prevented the ſame; and then Con<g ref="char:EOLhyphen"/>tracted for the whole Farm, paying down 9000 <hi>l.</hi> ſome conſider<g ref="char:EOLhyphen"/>able time before the Leaſe Commenced, and the Farmers were at
+<pb facs="tcp:48712:6"/> the Expence of near 5000 <hi>l.</hi> more, with Intereſt and other in<g ref="char:EOLhyphen"/>cident Charges in Seating the ſame, both for the eaſe of the Clothiers and Drapers, before they had made any profit, by the reaſon of the ſtanding out of ſeveral conſiderable Counties in the former Leaſes, and notwithſtanding all that great Summ paid down, and the incident Charges, yet the Farmers took not advantage of any one Seizure, but only to Seal the Goods; which I think was very good Service done by him, and was then looked upon ſo; and the rather, that the ſaid Shop<g ref="char:EOLhyphen"/>keepers were not only freed from the Fines and Rent formerly paid by them, but from future damages, or any expence for the ſame; beſides which Mr. <hi>Carter</hi> cauſed the Shalloon-Makers in the Counties of <hi>Southampton,</hi> and <hi>Berks,</hi> to be eaſed one quarter of what they had paid the former Farmers.</p>
+            <p>And alſo procured the Clothiers themſelves, or ſuch as they ap<g ref="char:EOLhyphen"/>proved to be Collectors, or Deputies; which I think was real Service to all parties concerned.</p>
+            <p>And if any accidental difference falls out, he is ſtill ready to endea<g ref="char:EOLhyphen"/>vour to accommodate the ſame: And therefore he deſerves not to be ſtigmatized, as he is in that Paper Printed, and ſent into moſt Towns in <hi>England;</hi> who has without charging, Faithfully and heartily proſe<g ref="char:EOLhyphen"/>cuted the ſame deſign he ever did. <hi>(Viz.)</hi> Settling the duty in its right place, and to prevent all abuſes that have or may happen to the Retaylers thereby; which as it hath been ſo, I doubt not but it will be his conſtant endeavour.</p>
+            <closer>
+               <signed>J. R.</signed>
+            </closer>
+            <pb facs="tcp:48712:7"/>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:48712:7"/>
+            <head>The Contents,</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>THat in <hi>Nov.</hi> 1667. I diſcovered great quantityes of <hi>Wooll</hi> that had been exported in <hi>Auguſt</hi> before, from <hi>Rumney-marſh</hi> (and ſeized ſome) and alſo from <hi>Ireland,</hi> and diſcovered the ſame to the <hi>Parliament</hi> then ſitting,</cell>
+                     <cell>
+                        <hi>p.</hi> 1st.</cell>
+                  </row>
+                  <row>
+                     <cell>I petitioned <hi>K. Ch.</hi> 2<hi>d.</hi> for a Party of Horſe in <hi>Rumney-marſh,</hi> and ſome Frigats at Sea, which was granted, and thereby great quan<g ref="char:EOLhyphen"/>tities of <hi>Wooll</hi> were prevented from Exportation,</cell>
+                     <cell>
+                        <hi>i. b.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sept.</hi> 1668, I made Propoſals to the ſaid <hi>K. Ch.</hi> to prevent the Exportation of <hi>Wooll,</hi> which was reffered to the Council of Trade, and reported,</cell>
+                     <cell>
+                        <hi>p.</hi> 2<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Auguſt,</hi> 69 I Addreſt the ſaid King, about <hi>Ireland,</hi> which was refered to the Ld. <hi>Roberts</hi> then going, and good effects there were by preventing great quantities of <hi>Wooll</hi> from being carried beyond Sea,</cell>
+                     <cell>
+                        <hi>i. b.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>About the ſaid <hi>Mon.</hi> of <hi>Auguſt,</hi> I made a diſcovery of 5 Veſſels that came into <hi>Callice</hi> with <hi>Wooll,</hi> and obtained the then Lord Keepers Letters, <hi>&amp;c.</hi>
+                     </cell>
+                     <cell>
+                        <hi>p.</hi> 2<hi>d.</hi> and 3<hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>By a Report from the Lord Cheif Baron, in <hi>Ianuary</hi> 1671, is the effects of my purſuing the former diſcovery,</cell>
+                     <cell>
+                        <hi>p. 6th.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In the ſaid Year of 71, I prevented a deſign of Tranſporting <hi>Wooll</hi> from <hi>Ireland,</hi>
+                     </cell>
+                     <cell>
+                        <hi>p.</hi> 19.</cell>
+                  </row>
+                  <row>
+                     <cell>That I proſecuted at the Aſſizes in <hi>Maidſton</hi> in <hi>Kent,</hi> fower Perſons, and convicted the ſame,</cell>
+                     <cell>
+                        <hi>p. 7th.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>An Abſtract of an Advertiſement to the <hi>Merchants,</hi> and <hi>Clo<g ref="char:EOLhyphen"/>thiers</hi> in the Year 1672,</cell>
+                     <cell>
+                        <hi>p.</hi> 16. 17. 18.</cell>
+                  </row>
+                  <row>
+                     <cell>In the Year 1678, I prevented the deſign of Mr. <hi>Monk,</hi> of leſſening the penalties of the Laws for the preventing the Exporta<g ref="char:EOLhyphen"/>tion of <hi>Wooll,</hi>
+                     </cell>
+                     <cell>
+                        <hi>p. 8th.</hi>
+                     </cell>
+                  </row>
+                  <pb facs="tcp:48712:8"/>
+                  <row>
+                     <cell>In the Year 1684, I prevented a farther deſign of the ſaid Mr. <hi>Monk,</hi> in a Commiſſion, and petitioned the <hi>Lords</hi> of the <hi>Trea<g ref="char:EOLhyphen"/>ſury</hi> to Impower the ſeveral Companies of <hi>Merchants &amp;c.</hi> To take a perticular care of that Affaier, and thereupon I did then affreſh undertake to look after it, and I prevented great quantities of <hi>Wooll</hi> that Year from Exportation,</cell>
+                     <cell>
+                        <hi>p. 9th.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>In the Year 85, I attended the <hi>Parliament,</hi> for the Paſſing of a <hi>Bill,</hi> and petitioned the late King for 2 <hi>Sloops</hi> to Cruſe upon the Seas, and did obtain them, tho' oppoſed by the then Commiſſioners of the Cuſtoms; by which means there was above 20 <hi>French</hi> Shal<g ref="char:EOLhyphen"/>lops taken, and condemned, with 2 or 300 <hi>Baggs</hi> of <hi>Wooll,</hi> be<g ref="char:EOLhyphen"/>ſides much caſt over-bord,</cell>
+                     <cell>
+                        <hi>p, 10th.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That in <hi>May</hi> 1686, I did requeſt, and did obtain an <hi>Order</hi> from the then <hi>Lord Treaſurer,</hi> to bring up the <hi>Wooll</hi> which was condemned, to <hi>London,</hi> and to be ſold to the <hi>Clothiers,</hi> which be<g ref="char:EOLhyphen"/>fore uſed to be ſold after Seazure, to thoſe that had exported it, and then exported by them again,</cell>
+                     <cell>
+                        <hi>p. 11th.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>That in <hi>Dece.</hi> 1686, I diſcovered a deſign of gaining a Lycence to Export 6000 <hi>Baggs</hi> of <hi>Wooll</hi> from <hi>Ireland,</hi> and prevented the ſame,</cell>
+                     <cell>
+                        <hi>p. 12th.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A diſcovery of a Confederacy betwixt the Officers of the Cuſtoms, and the Exporters of <hi>Wooll,</hi>
+                     </cell>
+                     <cell>
+                        <hi>p. 12th. 13th.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Difficulty I was put to, and Examinations at the Treaſury,</cell>
+                     <cell>
+                        <hi>p. 14th. 15th.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:48712:8"/>
+            <head>THE PROCEEDINGS Of William Carter Againſt TRANSPORTATION OF WOOLL.</head>
+            <p>WHereas divers Merchants, Clothiers and Factors, upon conſideration of the great detri<g ref="char:EOLhyphen"/>ment that accrued to this Kingdom, and to the Woollen Trade thereof, in that great quantities of Wooll were tranſported frequently into <hi>France, Holland,</hi> and <hi>Flanders</hi> &amp;c. did de<g ref="char:EOLhyphen"/>ſire and encourage me, to endevour the preventing the ſame; which being readily willing to undertake, I perceived that tho' there were many ſevere Laws made againſt exporting Wooll, and tho' the wiſdom of our Anceſters ſound it ſo miſcheivous and deſtructive to this Kingdom, as to make the Offence Capital, notwithſtanding either by the wilful corruption, or groſs neg<g ref="char:EOLhyphen"/>lect of Officers, great quantities of Wooll were clandeſtinely exported, by thoſe who, for a little private gain to themſelves, dare venture their Necks, to ruin the Trade of a Nation.</p>
+            <p>Applying my ſelf therefore cheerfully to ſo neceſſary a Work in <hi>Auguſt</hi> 1667, I made a diſco<g ref="char:EOLhyphen"/>very of twelve <hi>French</hi> Shallops loaded in one Night, from <hi>Rumney-Marſh</hi> in <hi>Kent,</hi> with conſider<g ref="char:EOLhyphen"/>able quantities of Wooll, and ſometime afterwards, I cauſed a quantity of Wooll, to be ſeized as it was carrying on the Beach, near <hi>Camber</hi> Point in the ſaid <hi>Marſh,</hi> in order to be ſhipped on board ſome Shallops, that lay in <hi>Rye</hi> Harbour.</p>
+            <p>I alſo diſcovered great quantities of Wooll, likewiſe exported beyond Sea out of <hi>Ireland;</hi> al<g ref="char:EOLhyphen"/>though in that Kingdom, the exportation thereof be alſo prohibited, unleſs the ſame by Li<g ref="char:EOLhyphen"/>cence be exported into <hi>England.</hi>
+            </p>
+            <p>At the next Parliament, in <hi>November</hi> 1667. I preſented the exportation of Wooll, and the National Dangers thereof, to the Houſe of Commons, which being referred to a Committee, to conſider of, they examining of the <hi>Iriſh</hi> exportations, ſoon found the ground of that Miſchief to be, that under colour of a Licence granted by his late Majeſtie, to export ſome hundred Packs of Wooll, ſeveral thouſand Packs were colour'd by that Licence from <hi>Ireland:</hi> Upon which the ſaid Committee made an Addreſs to his ſaid Majeſtie, to revoke the ſaid Licence, for the apparent frauds practiſed therein, which his Majeſtie accordingly did.</p>
+            <p>After the adjurnment of that Parliament, upon the importunity of the ſaid Merchants, and finding the Wooll-exporters, by their impunity grown to ſuch confidence, as to Ship off their Wooll openly in the day time, with armed Men to aſſiſt them, in the doing thereof; I petiti<g ref="char:EOLhyphen"/>oned his ſaid Majeſtie for a party of Horſe to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cout about <hi>Rumny</hi> Marſh, and ſome Frigats to cruſe at Sea, to prevent thoſe exportations, which by his ſaid Majeſtys Grace and Favour I did obtain, and by my attendance, ſometimes at Sea, and ſometimes at Land, with one and ſome<g ref="char:EOLhyphen"/>times two Servants, did prevent the exportation of above one Thouſand Packs of Wooll that Summer from the ſaid Marſh, and by that means was bought up by the Clothiers and Staplers, which the Year before was moſt of it Exported.</p>
+            <p>In <hi>September</hi> 1668, I preſented ſome propoſals to his ſaid Majeſty in Council, in order to pre<g ref="char:EOLhyphen"/>vent the ſaid exportations, which were referred the <hi>20th</hi> of <hi>November</hi> following to the Coun<g ref="char:EOLhyphen"/>cil, of Trade, with this particular Order, <hi>(Viz.)</hi> 
+               <q rend="inline">You are very ſtrictly to enquire, and in form your ſelves by what ways and practiſes the Wooll of this Kingdom comes to be ſtollen, embeſſed, and ſent away into forreign Parts, contrary to Law; what places <hi>(&amp;c.)</hi> are moſt ſuſpected in <hi>England</hi> or elſe where, and who doth buy the ſaid Wooll in thoſe places, to the end that nothing of care or watch may be omitted, but that all ſuch ſtrict and ſevere courſes be taken, that an evil, ſo miſcheivous and inconvenient, may be to ally prevented.</q>
+            </p>
+            <pb n="2" facs="tcp:48712:9"/>
+            <p>When I carryed this Order, with my Propoſals, to the ſaid Council of Trade, they imme<g ref="char:EOLhyphen"/>diatly choſe a ſelect Committee on purpoſe to peruſe them, where I was ordered to attend, which attendance laſted a good part of that Winter; the ſaid Committee ſummoned and heard divers Merchants, Clothiers, Factors, and Staplers, and then made their Report, which was Read before his Majeſty in Council, upon which, an Order was made the 2. of <hi>April</hi> 1669. in theſe words <hi>(viz.)</hi>
+            </p>
+            <p>
+               <hi>Whereas in purſuance of an Order of this Board, of the</hi> 20th. <hi>of</hi> November <hi>laſt, referring, to the Council of Trade the Propoſals of</hi> William Carter, <hi>for preventing the Exportation of Wooll; the ſaid Councel having returned their Report to the Board, that having diſcourſed with the ſaid</hi> Willam Carter, <hi>and ſuch other Perſons, as they thought capable of giving them any good information, touching this mat<g ref="char:EOLhyphen"/>ter, they find the Exportation of</hi> Wooll, <hi>is of a deſtructive conſequence to the Trade of this Kingdom, and that the ſame hath grown into practice; as well by reaſon of the doubtfullneſs and proviſions in the Statute made in the</hi> 12th <hi>year of his Majeſties Reign Prohibiting the Exportation of</hi> Wooll, <hi>as by the neglect and remiſſneſs of Officers, in not putting the Laws in execution:</hi> And therefore propoſed, that the care of that buſineſs, ſhould be eſpecially recommended to the Preſident and Governors of <hi>Chriſts</hi> Hoſpital in <hi>London,</hi> for the ſeveral Reaſons in the ſaid Report, purſuant to which Report, his Majeſtie directed a Commiſſion to paſs under the great Seal of <hi>England</hi> for that purpoſe, to the ſaid Preſedent and Governors: but before the Commiſſion paſt under Seal, I did carry the ſaid Report, and Order upon it to the Preſident and Governors of the ſaid Hoſpital, who imme<g ref="char:EOLhyphen"/>diately cauſed a Court to be called, and upon reading thereof, did accept of that Authority then intended to be given them, upon which I informed the Council of their willingneſs there<g ref="char:EOLhyphen"/>in, and did then proceed and ſolicite the buſineſs ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar, as to paſs the Commiſſion at my own charge, under the great Seal, and carried it to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſident and Governors, in expectation they would have taken it upon them, as they had agreed, but in ſome ſhort time after they de<g ref="char:EOLhyphen"/>clined the imployment, and returned the Commiſſion back to the King and Council, and plain<g ref="char:EOLhyphen"/>ly refuſed to act therein, upon ſome frivolous objections, without allowing me one penny for the money expended, which was not leſs th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n 40<hi>l.</hi> beſides my own Labour and Attendance.</p>
+            <p>The next Seſſion of Parliament, being in the year 1669 Sr. <hi>Orlando Bridgman</hi> the then Lord Keeper, brought into the Houſe of Lords an explainitory Bill for hindring the ſaid Exportation, under ſome new penalties.</p>
+            <p>Before which time <hi>William Facon</hi> of <hi>Canterbury</hi> Wooll-Comber, and one <hi>Marſh</hi> of <hi>Hoakam</hi> near <hi>Dover</hi> a Farmer, were brought up before the Houſe of Commons for Exporting 44 Packs of Combed <hi>Wooll</hi> from <hi>Canterbury,</hi> where being examined, they were ordred to be tryed at the the next Aſſizes at <hi>Maidſtone</hi> in <hi>Kent,</hi> whereupon I was comanded by his Majeſtie and Council, to proſecute them according to Law, for the ſaid Felony; but when I came to <hi>Maidſtone</hi> I could not hear of any ſuch perſon, there being no Recogniſance taken for their appearing there, nor any Witneſſes attending to prove the Fact, ſo I loſt my Jorney but afterwards I underſtood that he had compounded with his Accuſers, and taken off the Witneſſes, ſo that the Order of the Houſe of Commons, and his Majeſties care therein, proved altogether ineffectual.</p>
+            <p>About <hi>Auguſt</hi> following in the ſame year 1669, underſtanding that the Late Earl of <hi>Radnor</hi> was deſigned to go Lord Leivtenant for <hi>Ireland,</hi> I petioned his Majeſtie in Council, for ſome care to be taken in preventing the Exportation of Wooll from <hi>Ireland,</hi> who was pleaſed to Or<g ref="char:EOLhyphen"/>der a Letter in Council, recomending the care thereof, to the ſaid Lord Lievtenant, on whome I waited at his departure as far as <hi>St. A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bans,</hi> and at my parting with his Excellency there, he promiſed to Act effectually therein, which his Lordſhip did accordingly: In ſo much, that within ſix weeks time after he came to <hi>Ireland,</hi> there were landed at <hi>Minehead,</hi> above one thouſand Packs of <hi>Wooll</hi> more in that time, than had been there landed within the like ſpace of time, in any year before, and the like proportionable at <hi>Liverpool, Cheſter, Briſtol</hi> and <hi>Barnſtable,</hi> which quantitie of <hi>Wooll</hi> in other years uſed to be Exported out of <hi>Ireland</hi> beyond the Seas, upon pretence of being ſhipt for <hi>England.</hi>
+            </p>
+            <p>In a ſhort time after, I made a diſcovery of five Veſſels loaden with <hi>Wooll</hi> arived at <hi>Callice</hi> in <hi>France,</hi> one of which belonging to <hi>Dover,</hi> two to <hi>Folkſtone,</hi> and two to <hi>Hythe</hi> in the County of <hi>Kent,</hi> upon which the Lord <hi>Keeper</hi> was ordred by the King in Council, to write a letter to the Mayors of <hi>Dover, Folkſtone</hi> and <hi>Hythe,</hi> which was to this effect.</p>
+            <pb n="3" facs="tcp:48712:9"/>
+            <floatingText xml:lang="eng" type="letter">
+               <body>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>
+                     <hi>THis bearer</hi> William Carter <hi>brings along with him a Coppy of an Information, concerning the Tranſportation of</hi> Wooll; <hi>but it being a matter of ſo high Concernment to his Majeſtie and this Kingdom, as ſcarce any thing more; to prevent the Tranſportation of</hi> Wooll, <hi>and the puniſhment of the Offenders: I do earneſtly recommend it to you, to examin the Perſons named in the Information, and to make all the enquiry you can, concerning theſe and ſuch others, as you ſhall have cauſe to ſuſpect to be guilty in this kind, and to certifie what you find herein, that his Majeſtie in Council may give further Orders there<g ref="char:EOLhyphen"/>upon, not doubting of your care herein,</hi>
+                  </p>
+                  <closer>
+                     <signed>Your Loving Friend <hi>Orlando Bridgman.</hi>
+                     </signed>
+                     <dateline>
+                        <hi>Eſſ.</hi> Houſe, <date>
+                           <hi>Aug.</hi> 30. 1669.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>With this Letter I rod Poſt to <hi>Dover,</hi> and having there ſecured one <hi>Thomas Peirce,</hi> a Maſter of one of the ſaid Veſſels; whilſt he was examining before the Mayor, his wife being preſent, and hearing the names read of the other Maſters at <hi>Folkſtone,</hi> and <hi>Hythe</hi> in the Information men<g ref="char:EOLhyphen"/>tioned, and her Husbands Veſſel then lying at <hi>Folkſtone,</hi> ſhe preſently gets a Horſe and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rides thither, and diſcovers the buſineſs there; by which means, when I came to <hi>Folkſtone,</hi> (tho' it was the ſame day) I was fruſtrated of my deſign there, the Mayor and Maſters being all got out of the way before I came, but haſting to <hi>Hythe,</hi> by chance met with one <hi>Mark Spicer,</hi> Maſter of another of the ſaid Veſſels: But before I could find the Mayor of <hi>Hythe,</hi> to examine the ſaid <hi>Spicer,</hi> he made his eſcape towards <hi>Folkſtone,</hi> whether I followed him, and juſt as he came to the Sea ſide, where a Boat lay to receive him, I ſeized him; but the Women of the Town being before alaramed by <hi>Perce</hi>'s Wife (it being all in one day) came out of their Houſes, and gathered up ſtones upon the Beach, which they flung about my ears ſo violently, that having no help, I was forced to quit my Priſoner, hardly eſcaping my ſelfe.</p>
+            <p>Returning back to <hi>London,</hi> and there being a Council deſigned to meet at <hi>Hampton Court,</hi> I went thither and waited on the Lord <hi>Keeper Bridgman,</hi> to whome I gave an account of my whole Journey, his Lordſhip ordred me to attend while the Council ſate, which I did, and was then called in and related all the ſaid particular paſſages to his Majeſtie, who was pleaſed to command me to go down into <hi>Kent</hi> again, and ordered a party of Horſe to aſſiſt me.</p>
+            <p>But before the party of Horſe were ready, I received an Information of Ten Thouſand Stones of <hi>Wooll,</hi> Shipt in five Veſſels from <hi>Gallaway</hi> in <hi>Ireland,</hi> and coulorably entred for <hi>Ply<g ref="char:EOLhyphen"/>mouth</hi> and <hi>London,</hi> &amp;c.</p>
+            <p>I better knowing, than being able to prevent the uſual Frauds practiſed in <hi>Ireland,</hi> where under pretence of getting a Licence from the Lord <hi>Livetenant,</hi> to Ship <hi>Wooll</hi> for <hi>England,</hi> ſome<g ref="char:EOLhyphen"/>times double the quantity Licenced was Shipt, and the Law requiring Bonds with ſureties, to be given for landing the <hi>Wooll</hi> Licenced at ſome Port in <hi>England,</hi> ſome times inſufficient Secu<g ref="char:EOLhyphen"/>rity was taken, and ſo the Bonds were of no effect, ſometimes falſe and counterfeit Certificates were procured out of <hi>England,</hi> in diſcharge of thoſe Bonds, that the <hi>Wooll</hi> was landed in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> when in truth it was not, ſometimes thoſe Bonds tho' actualy forfited and detected, yet were eaſily compounded for at low and cheap Rates, and at other times by the corruption of Officers, ſeveral Bonds were compounded for, aſſoon as they were entred into, even before the departure of the Veſſel out of the Port, whereby Offenders were incouraged to break the Laws, by knowing and paying the price of their Puniſhment before they committed the Offence; which miſcheifs being willing to obviate ſo far as I was able, upon diligent enquiring, I had good reaſon to ſuſpect, the ſaid Ten Thouſand Stone of <hi>Wooll</hi> was really deſigned to be Export<g ref="char:EOLhyphen"/>ed beyond the Sea, and not intended either for <hi>Plymouth</hi> or <hi>London,</hi> as was pretended by the Entries.</p>
+            <pb n="4" facs="tcp:48712:10"/>
+            <p>And thereupon I applyed my ſelf to the then Farmers of his Majeſties Cuſtoms, for an order to ride down into the Southern Ports, to examine what <hi>Wooll</hi> was lately come thither from <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reland,</hi> to prevent Frauds by counterfit Certificates, which I obtained. Being arrived at <hi>Exeter</hi> with their Order, I underſtood, that one <hi>Blake</hi> an <hi>Iriſh</hi> Man had been lately there, tampering with ſome of the Cuſtom Officers, to get the Form of their uſual Seal, and the Names of the ſaid Officers; upon which I immediatly wrote to my Correſpondent in <hi>Ireland,</hi> who upon my Information found out the ſaid <hi>Blake</hi> at <hi>Galloway,</hi> and diſcovered that he was concerned in all, or moſt of the ſaid five Veſſels, and that he had gotten counterfit Certificates, Importing as if the ſaid Wooll had been really landed in <hi>England,</hi> when it was not, and by that Means was deſigning to get up or diſcharge the ſaid Bonds, but I prevented the doing there<g ref="char:EOLhyphen"/>of by examining the Matter, and finding that ſome of thoſe Veſſels unloaded their Wooll at <hi>Fluſhen</hi> in <hi>Zeland,</hi> ſome at <hi>Amſterdam,</hi> and one at St. <hi>Ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>os</hi> in <hi>France;</hi> of the Truth of which I procured Oaths and Atteſtations, ſome of which are now in my Cuſtody, whereby thoſe falce Certificates were detected, and the diſcharge of thoſe Bonds prevented.</p>
+            <p>Afterwards returning to <hi>London,</hi> and diſpatching into <hi>Kent,</hi> according to His Majeſtie's Com<g ref="char:EOLhyphen"/>mand, the Party of Horſe being then gone before to <hi>Canterbury,</hi> for my Aſſiſtance in <hi>Rumney-Marſh,</hi> we had Notice of a parcel of Wooll, ſecured in a Houſe called <hi>Brokman</hi>
+               <g ref="char:punc">▪</g>s <hi>Barn,</hi> which ſecuring and the Perſon in whoſe Cuſtody it was, a great Diſcovery by him (of other Exporters) was made and proſecuted, as more fully may appear hereafter.</p>
+            <p>☞ Note, <hi>That</hi> William Facon <hi>before nentioned, who had been before the Houſe of Commons,</hi> Anno Dom. 1668, <hi>was brought up to the King and Council, in</hi> Anno Dom. 1669, <hi>and before he could have his Tryal, was privately Compounded with by his Accuſers the ſecond time, tho' the King had expreſly ordered his Tryal.</hi>
+            </p>
+            <p>In <hi>September</hi> 1669, the Late King going to meet His Siſter the Princes <hi>Henereta Maria,</hi> at <hi>Dover,</hi> (during His aboad there) going out one day to Sea, and obſerving a Veſſel belonging to Cap<g ref="char:EOLhyphen"/>tain <hi>John St<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell,</hi> Sergeant to the Admiralty, to out Sail any of His own Pleaſure Boats: Such was the Zeal His Majeſty had againſt the Exportation of Wooll, and his Care to prevent it, that He was pleaſed to hire Her on purpoſe for that Service, Commanding the Aſſiſtance of my Ad<g ref="char:EOLhyphen"/>vice to the Captain, in Cruſing about the Coaſt of <hi>Kent,</hi> to prevent the ſaid Exportation, which was ſo ſuccesful, with ſome other Veſſels for ſome time, that together with the Diſcove<g ref="char:EOLhyphen"/>ry before mentioned, both as to <hi>Ireland</hi> and <hi>Kent,</hi> a great ſtop was then put to the ſaid Expor<g ref="char:EOLhyphen"/>tation; which is confirmed in a Letter, afterwards wrote from <hi>Lile,</hi> the 5<hi rend="sup">th.</hi> of <hi>March</hi> 1671, viz.</p>
+            <floatingText xml:lang="eng" type="letter">
+               <body>
+                  <opener>
+                     <salute>Sir.</salute>
+                  </opener>
+                  <p>
+                     <hi>I Received Yours of the</hi> 17<hi rend="sup">th.</hi> 
+                     <hi>&amp;</hi> 27<hi rend="sup">th.</hi> 
+                     <hi>of</hi> February, <hi>under co<g ref="char:EOLhyphen"/>vert,</hi> &amp;c. <hi>about the Wooll Affair; I have much <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eaſon to believe, unleſs ſome are made Examples, there will be continual Abuſe; the Comodity both</hi> Engliſh <hi>and</hi> Iriſh, <hi>Raw and Combed, abound ſo much in theſe Countries, that for that which would yeild, not long ſince</hi> 8 Stivers <hi>and a half</hi> per. <hi>Pound, will yeild now but</hi> 6 <hi>and a half; yet they would be contert to give</hi> 15 <hi>rather than want it, for they cannot make abundance of</hi> Fabrik, <hi>viz</hi> Wollen Manufacture, <hi>without</hi> Engliſh <hi>or</hi> Iriſh <hi>Wooll.</hi>
+                  </p>
+                  <p>
+                     <hi>There is a City not</hi> 5 <hi>Leagues from this, called</hi> Tourney, <hi>a Place renownd, for the making of all ſorts of Stockings of Wooll; it's not above</hi> 20 <hi>Years ſince, that they betook themſelves, to make the Worſted Hoſe; A Trade, whicb in my Minority, was conſiderable from</hi> London, <hi>into theſe Countries, and now you may have a Parcel of</hi> Engliſh <hi>Worſted Hoſe</hi> 20 <hi>Years by you,</hi> &amp;c.</p>
+                  <p>
+                     <hi>It's not above three Year<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> agon, that there was aſcarcity of Combed Wooll, in this Quarter of the Coun<g ref="char:EOLhyphen"/>try, and ſeveral of thoſe Stocking Merchants, came hither to buy ſome; I told them, that ſuch ſeverity was uſed in</hi> England, <hi>that People Were mad if they Adventure.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <pb n="5" facs="tcp:48712:10"/>
+            <p>The next Seſſion of Parliament 1670, the Houſe of Commons being under the Conſideration of raiſing of Money for His Majeſty; it was propounded, that Wooll might be Tranſported from <hi>Ireland,</hi> paying 2<hi>d.</hi> or 3<hi>d.</hi> Per. <hi>pound</hi> Cuſtom, and 3 reaſons, was offered, the anſwer to which; I ſhall now wave tell I come the to proceeding in Parlement in a diſtinct diſcourſe.</p>
+            <p>The Parliament then adjourning in the year 1671, I ſetled a Correſpondancy in <hi>Irland</hi> and <hi>Flanders,</hi> in order to know, whether the quantities of <hi>Wooll</hi> exported from one was caried to the other, and directed Captain <hi>Steel,</hi> the Owner and Maſter of the Veſſel beforementioned, to ſtear his courſe accordingly, but after this Coreſpondancy was ſetled I was taken ill of a Feavor in <hi>June</hi> 1671 which held me 4 monthes, and a little time after the ſaid Veſſel was called in, and ſo the Exporters for ſome time had liberty to carry out their <hi>Wooll</hi> without controul.</p>
+            <p>In <hi>Auguſt</hi> 1671 one <hi>Edward Nichols,</hi> being commited to Newgate dureing my ſickneſs for Tranſporting <hi>Wooll,</hi> and no per on being willing to proſecute him, was like to be diſcharged upon which I aſſoon as I was recovered did Immediately addreſs my ſelf to his Majeſtie in Council, for the further continuance of the ſaid <hi>Nichols</hi> in Priſon, till he ſhould be diſcharged by Law, and an Order was forthwith granted accordingly. But there aroſe a Queſtian before the King and Council, in what Court he ſhould be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, whether by the Admiralty; or by common Law, (the Veſſel b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing taken with the <hi>Wooll</hi> in the River of <hi>Thames</hi> near <hi>Graves-end)</hi> and it was refer'd to all the Judges to meet and conſider the matter, and afterwards to Report their Opinion to the King, upon which Report, it was debated before the King in the preſence of the ſaid Judg<g ref="char:EOLhyphen"/>es, and the then Judg <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the Admiralty, whither the ſaid <hi>Nichols</hi> ſhould be tryed by Common Law or not, and a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er a long conſultation in the Council, it was Ordered as followeth, <hi>(viz.)</hi>
+            </p>
+            <floatingText xml:lang="eng" type="order">
+               <body>
+                  <opener>
+                     <dateline>White Hall <date>
+                           <hi>the</hi> 13th. <hi>of</hi> December 1671:</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>It is this day Ordered by his Majeſtie in Council, that the Recorder of the City of</hi> London <hi>do, and is hereby required, by the leſt wayes he can, ſpeedily to find out in what County that part of the River of</hi> Thames <hi>lyeth, wherein the ſaid</hi> Edward Nichols <hi>was apprehended, for Tranſporting of</hi> Wooll <hi>contrary to Lay, and that he Report the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>me to the Lord Cheif Juſtice of his Majeſties Court of</hi> Kings Bench; <hi>to the end his Lordſhip may give order for removal of the ſaid Priſoner, to the Goal of the ſaid County, where it ſhall appear he was taken, in order to his Tryal at the next Aſſizes, to be holden for that County.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>But the burthen and care of obſerving this Order, lay cheifly on me: Tho' the Veſſel was in truth taken with the Wooll on board on the <hi>Eſſex</hi> ſhore, and for that reaſon the Priſoner re<g ref="char:EOLhyphen"/>moved to <hi>Chelmsford</hi> Goal, and thence brought to Tryal at <hi>Chelmsford</hi> Aſſizes, yet upon exa<g ref="char:EOLhyphen"/>mining the Witneſſes on the Tryal it did appear, that the Priſoner was not ſecured when the Veſſel was Seized, tho' then on Board, but got away out of the Veſſel, and two daies after were taken on Shore at <hi>Graves-end,</hi> upon which the Tryal was Ordered to be at the then next <hi>Maidſtone</hi> Aſſizes, held for the County of <hi>Kent,</hi> which was the <hi>12th.</hi> of <hi>Marcb</hi> 1671, Where<g ref="char:EOLhyphen"/>upon my proſecution, the ſaid <hi>Nichols</hi> was tryed and Convicted of Felony, as afterward will more fully appear: About which time I did alſo diſcover the owner of the Wooll for which <hi>Nichols</hi> was Convict, and cauſed him to be taken into Cuſtody, and unto Tryal alſo; but not<g ref="char:EOLhyphen"/>withſtanding, his mony purchaſed ſuch Intreſt, that he did Compound and was diſcharged, without my knowledg, and againſt my will: About which time, and before the Tryal of the ſaid <hi>Nichols,</hi> I petitioned his late Majeſty for ſome ſupply to carry on the Affayre; which be<g ref="char:EOLhyphen"/>ing refered to the then Lord Cheif Barron, his Lordſhip Reported as followeth, <hi>(viz.)</hi>
+            </p>
+            <pb n="6" facs="tcp:48712:11"/>
+            <floatingText xml:lang="eng" type="letter">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe Your Moſt Excellent Majeſty.</salute>
+                  </opener>
+                  <p>
+                     <hi>In Obedience to your Majeſties ſecond Order of Refferance bearing, date the</hi> 20th. <hi>of</hi> December <hi>laſt, hereunto annexed; I have conſidered of the Matter thereby to me Refered, and have diſcourſed with the Petitioner about his Charges and Ex<g ref="char:EOLhyphen"/>pence, in proſecuting the Tranſporters of Wooll; the which he hath reduced to ſome certainty, and put it into writing, and hath alſo made Affidavit of the Truth thereof; the which is likewiſe hereunto annexed, whereby it appears that during theſe</hi> 4 <hi>Years laſt paſt, wherein he hath brought into your Majeſties Exchequer about</hi> 800<hi>l. more than in former Years had been received, he hath Expended near as much, but there be many more Informations ſtill depending, if proved may bring in a grater Summ; But without ſome ſupply at preſent from your Ma<g ref="char:EOLhyphen"/>jeſty he will not be able to proceed with them; if therefore your Majeſty be pleaſ<g ref="char:EOLhyphen"/>ed to give your Petitioner</hi> 300<hi>l. it will incourage and Inable him to proſecute the Informations depending. And if he ſhall Convict the Offenders, he will be capa<g ref="char:EOLhyphen"/>ble of your Majeſties further Grace and Favour, all which I moſt humbly ſubmit unto your Majeſties Judgment.</hi>
+                  </p>
+                  <closer>
+                     <date>January 3<hi>d.</hi> 1671.</date>
+                     <signed>Ed. Turnor.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>In which Report it doth appear that I had then expended 800<hi>l.</hi> and ordered 300<hi>l.</hi> in part until other Proſecutions brought in more Money, in a further purſuance of the ſaid Offenders, I expended about 150<hi>l.</hi> more, and the very Fees, Attendances, and Gratuitys to recieve the 300<hi>l.</hi> coſt me 50<hi>l.</hi> ſo that I had then but 100<hi>l.</hi> towards my 800<hi>l.</hi> And tho' I had proſecuted ſeveral Offenders <hi>(viz.)</hi> Indicted ſome at the Aſſizes and exhibited divers Informations in the Exchequer againſt others, yet notwithſtanding, partly by Compoſitions of the Officers, and partly by an Act of Parliament for a general pardon, I was then fruſtrated of my deſign, and prevented recieving the Ballance of my Accounts, beſides which being then complained a<g ref="char:EOLhyphen"/>gainſt by ſome, for uſing a Millitary Power, <hi>(viz)</hi> a party of Horſe in that Affayre, though on<g ref="char:EOLhyphen"/>ly for the preſervation of my own and others Lives, in execution of the known Laws; I was forced to decline that ſervice at that time in <hi>Kent,</hi> the effect of all which was, that great quan<g ref="char:EOLhyphen"/>tities of Wooll was then exported, as well from <hi>Ireland</hi> as from <hi>Kent,</hi> which is confirmed by the following Leter, part of which I have before incerted to prove the effect of my firſt at<g ref="char:EOLhyphen"/>tempt, the remainder follows, <hi>(viz.)</hi>
+            </p>
+            <p>
+               <hi>Both</hi> Engliſh <hi>and</hi> Iriſh <hi>Wooll, Raw and Kembed abounds much in theſe Countrys, and for the Kembed Wooll, moſt of which comes from</hi> Dover <hi>and</hi> Canterbury <hi>Tranſporters:</hi> Callis, Deep, St. Vallerys, Abliveile, Amens, Dunkirk, Oſtend, Bridgees, Zealand, Rotterdam, <hi>and</hi> Ghent, <hi>all over theſe Provinces, every place is choaked with it; ſo that you may eaſily ſee how inſenſibly th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Dover <hi>and</hi> Canterbury <hi>Tranſporters, draw the Kingdoms Hearts Blood from them; I could ad much more of the great benefit our Neighbours receive by it, which proves to an abſolute Ruine; But I gueſs you can as eaſily comprehend my Meaning, as if I had further enlarged.</hi>
+            </p>
+            <p>
+               <hi>In a word</hi> France <hi>rejects our Fabricks at this day, preſuming that they ſhall never want our Wooll to make their own fantaſtick Fabricks, which are ſo variable, as puts a great ſtop to the Currant de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, that uſed to be of our more ſolid Fabricks, for they will pretend to give the Mode to all the World;</hi>
+               <pb n="7" facs="tcp:48712:11"/> 
+               <hi>and ſo by this means, in time, all the World will be diſguſted with our Fabricks, when by Conſequence, they ſhall receive the Mode from the French; conſider of this I pray, that ſo there may be ſome ſpeedy remedy.</hi>
+            </p>
+            <p>Which Leter is confirmed by two other in theſe words, <hi>(viz.)</hi>
+            </p>
+            <q>
+               <hi>We have here a miſerable Tarriff lalely come forth, that Taxes Serges at</hi> 25, <hi>Cloth at</hi> 40, <hi>Cottens,</hi> &amp;c. <hi>at</hi> 10 <hi>Florens per.</hi> 100 <hi>weight, the miſery is the great quantity of Wooll that is ſtolen from</hi> England <hi>to</hi> France.</q>
+            <p>So repeating the ſubſtance of the former Letter only differing expreſſions, and more large, concluding in the laſt thus, <hi>(viz.)</hi>
+            </p>
+            <q>
+               <hi>The</hi> French <hi>are now got into a way of makeing a low price ſort of Cloth, called</hi> Searg de Berry, <hi>which comes as che<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p as</hi> Northern <hi>Cloth, its about</hi> 5 <hi>quarters broad; they have ſo much, in wbich they have Cloathed a great number of their Souldiers, and all made of</hi> Engliſh <hi>and</hi> Iriſh <hi>Wooll.</hi>
+            </q>
+            <p>After the Aſſizes were over, I went again into <hi>Kent,</hi> and aboad ſome time there, looking after the Exporters, on the Sea Coaſts I found 2 Veſſels near <hi>Hy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he</hi> appointed, and lying ready to carry away Wooll, one of which I had been informed had <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one little elce for a long time, of which <hi>William <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayly</hi> before mentioned was Maſter, the other Veſſel was new built by another perſon uſually employed in that deſign, but nothing was attempted whilſt I was in the Country: But having occaſion to come to <hi>London,</hi> I gave notice of the Deſign to two ſeveral Officers, by me appointed to be vig<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lent, who Seized 12 Packs of the Wooll deſigned to be Tranſported in one of the ſaid Veſſels, being brought down to the Sea ſide, ready to be ſhip'd off, and ſe<g ref="char:EOLhyphen"/>cur'd in the Houſe of one <hi>Nicholas Davis,</hi> and afterwards part of it was reſcu'd by the Inhabi<g ref="char:EOLhyphen"/>tants, who roſe in the night with Weapons, to the number of 20 Perſons, and wounding the Officers, carry'd away 8 of the ſaid 12 Packs; but afterwards the ſaid <hi>Nicholas Davis</hi> was taken and ſecured, in order to his Tryal.</p>
+            <p>Thereupon the ſaid <hi>Nicholas Davis,</hi> together with <hi>Thomas Knight</hi> and <hi>Thomas Stoner,</hi> all three Inhabitants of <hi>Rumney-Marſh,</hi> were by me proſecuted at <hi>Maidſtone</hi> Summer Aſſizes 1671 for Tranſporting Wooll, where they were alſo Tryed and Convicted thereof; and the ſame Aſſiz<g ref="char:EOLhyphen"/>es, together with the ſaid <hi>Edward Nichols,</hi> formerly convicted, were burnt in the Hand, as may appear upon Record.</p>
+            <p>Theſe are to Certifie, that at the General Goal delivery holden at <hi>Maidſtone,</hi> in the County of <hi>Kent,</hi> the <hi>12th.</hi> of <hi>March</hi> in the <hi>24<hi rend="sup">th</hi>,</hi> Year of His now Majeſties Reign 1671 <hi>Edward Ni<g ref="char:EOLhyphen"/>chols Marriner</hi> was convicted of <hi>Fellony</hi> for Tranſporting of Wooll; And that on the firſt Day of <hi>Auguſt</hi> in the <hi>24<hi rend="sup">tb</hi>.</hi> Year aforeſaid, <hi>Thomas Night, Nicholas Davis,</hi> and <hi>Thomas Stoner,</hi> were convicted of <hi>Felony</hi> for the like Offence.</p>
+            <floatingText xml:lang="eng" type="legal_report">
+               <body>
+                  <p>Theſe are further to Certifie, that <hi>Wm. Carter</hi> Gent. did on His Majeſties behalf attend the reſpective Tryals of the ſaid <hi>Nichols, Night, Davis,</hi> and <hi>Stoner,</hi> for the reſpective <hi>Felonies</hi> afore<g ref="char:EOLhyphen"/>ſaid, and did then manage the reſpective Evidences againſt them, and thereupon cauſe them to be proſecuted and convicted for the ſaid <hi>Felonies</hi> as aforeſaid; given under my Hand, the <hi>22th.</hi> of <hi>April</hi> 1676, and in the <hi>28th.</hi> Year of our Soveraign Lord <hi>Charles</hi> the Second, <hi>&amp;c.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Tho. Lee</hi> Clark of the Aſſizes.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Theſe Proceedings being carryed on in the Intervale of Parliaments, at the next Seſſion I procured and ſolicited a Bill to paſs, ſo farr as to be read twice, refered and engroſſed in the Houſe of Commons, being the Subſtance of that Bill before mentioned, brought in by the
+<pb n="8" facs="tcp:48712:12"/> Lord Keeper <hi>Bridgman,</hi> but by the Means of one Mr. <hi>Francis Monk,</hi> it was obſtructed, on pur<g ref="char:EOLhyphen"/>poſe to uſher in another Bill of his projecting, pretendedly to obſtruct, but intendedly to en<g ref="char:EOLhyphen"/>courage the Exporting Wooll, as by a Draught of the ſaid Bill it ſelf is ready to be made appear.</p>
+            <p>In the Year 167<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, the ſaid Mr. <hi>Monk</hi> Solicites another Bill in the Houſe of Commons; pretending thereby to make the Laws more practicable; but intending to Repeal the ſtrength of the Act in the 14<hi rend="sup">th.</hi> Year of his late Majeſties Reign, which Bill being Committed, and al<g ref="char:EOLhyphen"/>moſt paſt the Committee (I being ſo much diſcouraged for want of Money, that I had little In<g ref="char:EOLhyphen"/>tereſt in the Clarks) nevertheleſs watching his Motion, did get a worthy Member to move the Committee, to appoint ſome <hi>Merchants</hi> and <hi>Factors</hi> to attend them, and to the end, for that time adjorned, by which means I prevented his deſign that Day: And in the mean time printing ſome Reaſons againſt the Exportation of Wooll, for the Information of the Commit<g ref="char:EOLhyphen"/>tee<g ref="char:punc">▪</g> before their next Meeting; whereupon his Bill was rejected and laid aſide.</p>
+            <p>After which time little was to be done in Parliament, for 3 or 4 Years, by reaſon of other things then Tranſacted.</p>
+            <p>But about he Year 1682, Mr. <hi>Monk</hi> Petitioned the late King in Council, to have a Com<g ref="char:EOLhyphen"/>miſſion Empowring divers Perſons to put the Lawes in Execution againſt the Exportation of Wooll, ſome of which Perſons came to my Houſe in the Country, upon the Pretence that ſome Gentlemen at <hi>White<g ref="char:punc">▪</g>Hall,</hi> being willing to undertake the buſineſs, and hearing that I had ſpent ſome time in that Affaire, deſired my Aſſiſtance, and to give them a Meeting, which accordingly I did, and had ſeveral Meetings with the Gentlemen, till I was informed by ſome of them that Mr. <hi>Monk</hi> was concerned: Upon which notice I told the Gentlemen, that the Project laid by Mr. <hi>Monk</hi> would not do, and adviſed them to ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are their Money, and ſo part<g ref="char:EOLhyphen"/>ed: But notwithſtanding my Caution, they did proceed upon the ſaid Petition before men<g ref="char:EOLhyphen"/>tioned, untill their whole Deſigne was laid aſide, as you will find by the following Reffe<g ref="char:EOLhyphen"/>rences, and Reports thereon, <hi>(viz.)</hi>
+            </p>
+            <p>By an Order of Council dated the 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>ſt. March</hi> 1682. and the Reports from the Lords Com<g ref="char:EOLhyphen"/>mittee of Trade, <hi>&amp;c.</hi> made to his late Majeſtie upon the Petition of <hi>Francis Monk</hi> and others, praying a Commiſſion to put in Execution the Laws Prohibiting the Tranſportation of Wooll, <hi>&amp;c.</hi> Informing his ſaid Majeſtie that there were very great abuſes in unlawful Exportations of that kind, which were of pernicious conſequence, and that the fitneſs of the Commiſſioners to be imployed in that Affayre, and the cautions to be uſed therein, were refered to the late Lords of the Treaſury to conſider of, for the better putting of the Laws in Execution.</p>
+            <p>The matter of the ſaid Order of Council, with other Papers and Propoſals, made by the Petitioners, were referred by their Lordſhips, to the Commiſſioners of his ſaid Majeſties Cuſ<g ref="char:EOLhyphen"/>tomes; who by their Report dated the <hi>8th.</hi> of <hi>June</hi> 1683 do approve that ſome Perſons be appointed for that Service, under ſuch Authority as ſhould ſeem meet: And that the Perſons to be intruſted ought to be of known Honeſty.</p>
+            <p>Alſo the whole Matter afforeſaid was referred to <hi>Mr. Attorney General,</hi> who made his Report concurring with the Commiſſioners of the Cuſtomes; and he further adds, that Security ſhould be given, that upon Seizures no Compoſitions ſhould be made without Lycence.</p>
+            <p>After which, the whole matter and Reports being referred to the Company of <hi>Merchant Adventurers</hi> of <hi>England;</hi> they Reported that all Perſons, that ſhall faithfully endeavour to hinder the Exportation of Wooll, <hi>&amp;c.</hi> as aforeſaid (without connivance to the Offenders, or ſiniſter regard to themſelves) ought to be encouraged; for as much as the Exportation is become a National Miſchief, and threatens the utter Ruine of the Woollen Trade, if not time<g ref="char:EOLhyphen"/>ly prevented; that ſeveral Neceſſitous <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſons, having been formerly Commiſſionated, Study<g ref="char:EOLhyphen"/>ing their own Profit, inſtead of hindering the ſaid Exportation, have rather Aſſiſted and Pro<g ref="char:EOLhyphen"/>moted, than Prevented the ſame.</p>
+            <p>Which Reports being Read by their Lordſhips, and the Anſwer of Mr. <hi>Monk,</hi> were ſent the <hi>10th.</hi> of <hi>March</hi> 1683 to the ſaid Company for their further Conſideration; who in <hi>April</hi> 1684 ſent for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to attend them about the whole matter; who after ſeveral meetings with a Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>it<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee of the ſaid <hi>Merchants Adventurers, Levant</hi> and <hi>Eaſt-Land</hi> Companys, I attended the
+<pb n="9" facs="tcp:48712:12"/> Sea Coaſt with 2 Men, one on Board Captain <hi>Brown,</hi> and another on the Shore, by which great quantitys of Wooll were Seized and Condem'd, and much more prevented from being Exported that Summer, than was Seized or Condemned.</p>
+            <p>The ſaid <hi>Monck</hi> and others Exhibiting again further Propoſals for the carrying on that Ser<g ref="char:EOLhyphen"/>vice, on the <hi>4th.</hi> of <hi>April</hi> 1684, the ſame were tranſmitted to the Commiſſioners of the Cuſtomes, who the <hi>25th.</hi> of the ſame Month, Reported that they did look upon thoſe men not fitt to be Imployed in ſo great a Truſt, notwithſtanding they produced the Certificates of ſeveral Clo<g ref="char:EOLhyphen"/>thiers, &amp;c. Purporting their deſire that the ſaid perſons might be imployed in that Service, which Clothiers &amp;c. So Certifying they found to be generally mean Perſons, not to be credited in a thing of that Nature and Conſequence: and requiring the ſaid undertakers to produce Cer<g ref="char:EOLhyphen"/>tificats from known Merchants, <hi>Blackwell-Hall</hi> Factors &amp;c. they declined to do the ſame.</p>
+            <p>The ſaid Company of Merchants-Adventurers of <hi>England,</hi> made their Report on the Pa<g ref="char:EOLhyphen"/>pers ſent the Commiſſioners the <hi>10th.</hi> of <hi>March</hi> 1683 wholy againſt the undertakers, for that they deſigned their own private profit, more than the effectual carrying on the intended Work; and the ſaid Company were well aſſured that if the undertakers could have no gain at all, Honeſtly, they would of neceſſity miſs the main deſign of their undertaking.</p>
+            <p>Upon all theſe Tranſactions there was a Petition drawn up by me, and exhibited to the ſaid Lords of the Treaſury by ſeveral Clothiers and Factors of the Woollen Manufacture within the Countys of <hi>Worceſter, Gloceſter, Somerſet</hi> and <hi>Wilts;</hi> and taking notice that the undertakers were deſigning to obtein ſuch a Commiſſion as aforeſaid, upon ſuppoſition that they were there<g ref="char:EOLhyphen"/>unto encouraged by many Thouſands of the Woollen Manufacturers, the Petitioners diſown any ſuch Power, and do therein Pray that the propoſals, being matter of weight, may be recommended to the <hi>Hamburgh, Turkey</hi> and other Companys, whom the Petitioners were aſſured would propoſe ſuch methods for effecting the ſaid Prohibitions, as may be moſt effectual and ſuccesful.</p>
+            <p>Upon which Petition the ſaid late Lords of the Treaſury cauſed Letters to be written to the ſaid Companys, taking notice in the ſaid Letters what proceedings had been made therein, and alſo ſending Coppys thereof; did in the ſaid Letters deſire the ſaid Companyes or ſome of their members to meet together to peruſe the ſaid Papers, and conſider of ſuch Rules and Methods as they ſhould judge proper and ſufficient for the effectual reſtraint of the Exportation of the ſaid Commodity; and in the ſaid Letters deſired the ſaid Companys to ſend their Reſolution thereon in writing; as alſo whether they or any of their Members would be willing to engage in the Care of ſeeing the Laws for Prohibting the Exportation of Wooll obſerved.</p>
+            <p>A Committee of each company mett, and the Letters and Papers being Read (and my Pro<g ref="char:EOLhyphen"/>poſals for a Method) all concluded it neceſſary to find out ſom fund proportional <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Charge when adjuſted; at which time by one of the Committee it was declared the Clothiers were ready for their part to contribute 1600 <hi>P. Per. Annum.</hi> And it was then propounded that the ſame ſhould be farther communicated to other Merchants trading for <hi>France, Spain, Portugal,</hi> &amp;c. for to procure likewiſe their aſſiſtance, And it was alſo agreed by the ſaid Committees at their next meeting to come prepared with reſolutions how much each Company would raiſe.</p>
+            <p>Att which meeting the neceſſary Charge was brought in to amount to about 4000P. <hi>Per. Annum;</hi> after which time the Factors of <hi>Blackwell-Hall,</hi> in behalf of the Clothiers entred into a Voluntary Subſcription of 2<hi>d. Per. Cloth,</hi> 1<hi>d. Per. Serge,</hi> and ſo <hi>Pro Rato,</hi> to rayſe their 1600P. beforementioned, for 3 Years.</p>
+            <p>The Merchant Adventurers of <hi>England,</hi> agreeing to contribute 300<hi>p. Per. Annum</hi> for the like time, and other Companys, by their Deputys agreeing likewiſe to contribute in propor<g ref="char:EOLhyphen"/>tion to their Trade in the Woollen Manufacture.</p>
+            <p>Theſe Subſcriptions being entered into, the Difficulty lay how to Collect it; the Parliament then ſuddenly meeting, a Bill was drawn up by me, corrected by Council, and approved of by the then Lord Treaſurer, which Bill, had not the Parliament been Prorouged, and I ſtraitned for want of Money, would probably have paſſed into a Law, there being nothing on my part wanting in Solicitation.</p>
+            <pb n="10" facs="tcp:48712:13"/>
+            <p>That fayling I Petitioned his Majeſtie for two <hi>Sloops</hi> to be employed for the preventing Ex<g ref="char:EOLhyphen"/>portation of Wooll; and tho' there was ſome Oppoſition to it, yet his Majeſtie was Graciouſly pleaſed to give Order to Sett out the ſaid Sloops in that ſervice, and the Care for their dy<g ref="char:EOLhyphen"/>rection being committed to me, I did accordingly undertake it: and whilſt the Veſſels were preparing at <hi>Dover</hi> I ſent over a Man to <hi>Calice</hi> to make ſome diſcovery, which he effectually did and aſſoon as one of the Veſſels were ready, I went to Sea in her, and ſent for my Man to come from <hi>Calice,</hi> fearing he might be diſcovered, and had he not haſtened at the receipt of my Letter, in all probability he might have been Killed; for another Perſon was ſet upon in <hi>Calice</hi> as ſuppoſing him to be my Man, and was like to have been Murdered, had not his Land<g ref="char:EOLhyphen"/>lord rectified the <hi>French-Mens</hi> miſtake: Meeting my Man at Sea in the Packet-boat, we took him on Board, and by his diſcovery we took ſeveral <hi>French</hi> Shallops before we came into <hi>Do<g ref="char:EOLhyphen"/>ver,</hi> and tho' great Oppoſition was made in the Exchequer by many Claymes and other vex<g ref="char:EOLhyphen"/>atious motions there, to diſcourage me; yet I proſecuted, and condemned three in Michalmas Term 1685, and cauſed more to be Seized at that time, which afterward were proſecuted to Condemnation; and in the middle of <hi>December</hi> I took a Jorney into the <hi>North,</hi> leaving my Man at <hi>Dover,</hi> to obſerve my dyrections whilſt abſent. The Exporters contriving how to hinder my deſign, had got a <hi>Quo minus</hi> out of the Exchequer againſt him for 500<hi>l.</hi> in the name of <hi>John Noble,</hi> a Perſon that he never ſaw or heard of before and kept it in their hands above a Month, that they might ſurely fix him in Priſon, becauſe the Veſſels were diſcovered by him (I hav<g ref="char:EOLhyphen"/>ing ſent him privately to <hi>Calice</hi> for that purpoſe) and alſo the Information Exhibited in his name, tho' the Forfiture of forreign Veſſels are wholly the Kings. And before they executed their <hi>Quo minus,</hi> ſome of them made Affidavit and ſent it up to <hi>London,</hi> and moved the Court of Exchequer the firſt day of the next Term <hi>(viz) 23th.</hi> of <hi>January</hi> 1685 for an attachment againſt him, under pretence of a Contempt of an Order of Court, for not delivering of a Veſſel Seiſed and not Condem'd; and an Attachment was awarded againſt him, unleſs he ſhewed Cauſe to the contrary in five or ſix dayes; and that he might not be capable of ſhew<g ref="char:EOLhyphen"/>ing Cauſe, the ſaid Exporters, aſſoon as they heard of an order of Court, Arreſted him and carryed him a Priſoner to <hi>Dover-Caſtle,</hi> upon the 500<hi>l.</hi> Action; but Mr. <hi>Breton</hi> the Collector of <hi>Dover,</hi> believing it to be a ſham Action, deſigned to Bayle him, till <hi>William Eaton</hi> (one of the contrivers) ſent him a Letter to diſſwade him, aſſuring him it would be proved a Real Debt; ſo he was forced to ly in Priſon.</p>
+            <p>About this time coming home I was informed of the Order of the Court of Exchequer, and the next day, I did appear my ſelf in the ſaid Court, and owned the proceedings of my Man, as done by my Order, and therefore would be lyable to the Judgment of the Court for what he had done, and ſent for him up to anſwer, not knowing him then to be a Priſoner in <hi>Dover-Caſtle:</hi> but being informed of that, I moved the Court upon an Affidavit, and got a friend with me, and we become Bayle in Court, and removed him by <hi>Hebeas Corpus:</hi> ſo all that buſineſs fell to the ground; till afterwards having gott him a Priſoner att <hi>Bulloine</hi> In <hi>France,</hi> they proceeded againſt him on a feigned Action in the Crown Office, and would have brought it to Tryal att <hi>Maidſtone</hi> Aſſizes, but I ſtopt it at Mr. Attorny-Generals.</p>
+            <p>After which time, upon the encouragement of the Contribution before mentioned, there were fitted out two of the beſt of thoſe <hi>French</hi> Veſſels which I had gott condemned; and toge<g ref="char:EOLhyphen"/>ther with the aſſiſtance of thoſe two Sloops his Majeſtie (upon my petition) had Set out, there has been aboue 20 Veſſels ſeized and condemned, and divers parcels of Wooll, beſides great quantites caſt over board by the Exporters, that they and their Veſſels might make their eſcape.</p>
+            <p>But in the midſt of theſe Tranſactions the late Lord Treaſurer hearing little from the Mer<g ref="char:EOLhyphen"/>chants, after his Majeſtie had ſett out the two Sloops before mentioned, his Lordſhip by his Letter dated the <hi>15th.</hi> of <hi>March</hi> 1686/5, to the Company of Merchant Adventurers of <hi>England,</hi> preſt the ſaid Company, to conſider what his Majeſtie had done, in ſetting out two Sloops as an encouragement for them to proceed; and of what evil Conſequence Delayes were in that con<g ref="char:EOLunhyphen"/>cern. To which the ſaid Company, by their Letters of the <hi>25th.</hi> of the ſame Month, in<g ref="char:EOLhyphen"/>formed
+<pb n="11" facs="tcp:48712:13"/> his Lordſhip what progreſs they had made in that matter; and that for their ſhare they had reſolved to contribute 300<hi>l. Per Annum</hi> for 3 Years; as the Factors had for their Clo<g ref="char:EOLhyphen"/>thiers, by their Subſcriptions of 2<hi>d. Per.</hi> Cloth (and for the better carring on the ſaid Work, had ordered two Sloops that had been taken and condemned by me, to be fitted out for that Service) though other Merchants had not come to any Reſolution in that matter, how much they would contribute. Upon the Receipt of this Letter his Lordſhip directed Letters dated the <hi>30th,</hi> of the ſame month to the other Companys, to inform them what progreſs the ſaid Company of Marchants Adventurers had made, &amp;c. Whereupon the ſaid Com<g ref="char:EOLhyphen"/>panys (or moſt of them) gave anſwer to his Lordſhip of their readineſs to aſſiſt proportiona<g ref="char:EOLhyphen"/>ble to their Trade, for ſo good a Work; Copies of which Letters were ſent to the Merchants Adventurers, by Mr. <hi>Guy,</hi> the <hi>10th.</hi> of <hi>April</hi> following <hi>(viz.)</hi> 1686.</p>
+            <p>And having, as before mentioned, cauſed not only ſo many Veſſels and great quantities of Wooll to be condemned at my own Charge, tho' in the Officers names, and intending to bring up the Wooll to <hi>London</hi> to be ſold to Clothiers, (it being generally ſold before by the Officers to the Exporters) ſome of the the Officers refuſed to agree therto, becauſe it would yeild more mony at <hi>Dover:</hi> upon which in <hi>May</hi> 1686, I wrote to then Lord Treaſurer the matter of Fact, and his Lordſhip by Mr. <hi>Guy</hi> ordered the Commiſſioners of the Cuſtomes to direct their Officers to permit me to take the Wooll as appraiſed (I paying the Charge) and bring it up to <hi>London,</hi> to be ſold to the Clothiers. In purſuance thereof, after I had condemned the Wooll at my own charge, and paid the King's moiety into the Exchequer, and remitted money to <hi>Dover,</hi> and paid the Officers moiety, with all their charge there, I ordered it to be brought up: And having ſetled things at <hi>Dover,</hi> as I thought well, and ex<g ref="char:EOLhyphen"/>hibited ſeveral Informations in the Exchequer on the Forfietures of 3<hi>s. per.</hi> Pound, and pre<g ref="char:EOLhyphen"/>pared to Proſecute others on the Statute of the <hi>14th.</hi> of <hi>Charles</hi> the ſecond. By this means ſo great a ſtop was put to the ſaid Exportation by theſe Proſecutions, that Wooll did riſe in <hi>France</hi> above 30. <hi>per. Cent.</hi> in 6 months time, <hi>(viz.)</hi> between <hi>January</hi> 1685, and <hi>July</hi> 1686: After which I took a Jorney into the North on the Borders of <hi>Scotland,</hi> in order to prevent the miſchiefs in thoſe parts; but whilſt there, was informed, that ſome of the Officers of the Cuſtomes in conſederacy with the Exporters, did endeavour to obſtruct my Proceedings, which they had been a long time contriving.</p>
+            <p>And whilſt I was in the North, was informed that the Wooll I had condemned for the Offi<g ref="char:EOLhyphen"/>cers in their own Names, and paid all the Charges, and running the risk of bringing it up to <hi>London,</hi> as before mentioned, was by one of the Officers ſold by ſome under hand means, and he received part of the money for it, which I had fully paid him for before, and ſo went out of Town, which occaſioned a great Controverſy betwixt my Friends here, (that had ſupplyed me with money, and to whom the Wooll ſhould have been delivered) and ſome others: This coming to the Ears of the Exporters at <hi>Canterbury</hi> and <hi>Dover</hi> in few hours, for their encourage<g ref="char:EOLhyphen"/>ment (as well as it came to me in the North for my diſcouragement) their Plot took effect, and ſo from that time, <hi>(viz.) Auguſt</hi> and <hi>September</hi> 1686, the Exporters revived their old Trade, that in a little time twenty thouſand Packs were exported: The forementioned Officer was Commander of one of the Sloops that I had prevayled by Petition to his Majeſtie to fit out, and would have been put out of his place through his folly long ſince, and the Sloop laid aſide; had not I through the importunity of his Friends born with him, and kept him in; by which means the advantage he hath received thereby, cannot be leſs than 600l. in 2 Year and halfs time; but having for ſome time left him to his own conduct, he is through his Folly and Knavery diſmiſt from his employ.</p>
+            <p>At my return from the North, the firſt thing to be done was to get my man out of Priſon, but in little or no Capacity to hinder the ſaid Exportation from <hi>Kent,</hi> the 2 Veſſels before mentioned that were put out, being laid up, having neither Power to Seize Wooll, nor Col<g ref="char:EOLhyphen"/>lect money to proſecute the Offenders.</p>
+            <p>After which time I Petitioned the then Lord Treaſurer to Impower the ſaid Companies, Factors and Clothiers, <hi>&amp;c.</hi> that had entered into a voluntary Contribution, that they might be in a condition to carry on ſo good a Work, the Petition being referred to the Commiſſio<g ref="char:EOLhyphen"/>ners
+<pb n="12" facs="tcp:48712:14"/> of the Cuſtomes nothing was done; this attempt fayling I Petitioned his Majeſtie in Council, ſome time after to the ſame effect, annexing a Copy of the Commiſſion to Chriſts Hoſpital before mentioned, which being referred to the Lords Commiſſioners of his Majeſty's Treaſury about <hi>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bruary</hi> 1686, their Lordſhips referred the whole to the Commiſſioners, as before the late Lord Treaſurer had done, and there it re<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed.</p>
+            <p>Nevertheleſs, tho' I could not do what I would, yet I neglected no opportunity I was capa<g ref="char:EOLhyphen"/>ble of; for hearing that there was a deſign privately to procure a Licence to Export 6000 Baggs of Wooll from Ireland; which might contain 20000 Packs: the Names of the Perſons being given to me, I went immediatly to Mr. Attorney Generals, Treaſury, Secretary of State and Signer Offices, and entered <hi>Caveats</hi> at each Office; and a Friend of mine wrote a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etter to a Worthy Merchant and Gentleman in the Country, who did immediatly, with ſome other Gentlemen write to a great Miniſter of State; who was pleaſed to anſwer as followeth, <hi>(viz.)</hi>
+            </p>
+            <floatingText xml:lang="eng" type="letter">
+               <body>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>
+                     <hi>Yours of the fourth Inſtant was conveyed to me laſt night, while I attended his Majeſtie at Councel, which I immediatly communicated: Both His Majeſtie and we that had the honour to attend him were all ſurprized, that the Ma<g ref="char:EOLhyphen"/>licious Falce Reports that you ſeem to Inſinuate, had obteined credit in your Neigh<g ref="char:EOLhyphen"/>bourhood, of His Majeſties Intentions, to give Licence for the Tranſportation of</hi> Iriſh <hi>Wooll to parts beyond the Seas: It hath been ſo farr from His Majeſties Inten<g ref="char:EOLhyphen"/>tions, that He has long ago given ſtrict Orders, both to His Admiralty, and in His ſeveral Ports to uſe their utmoſt endeavours for the ſtrict Proſecution of all Offenders in that kind, and hath further given directions to the Officers of the Cuſtomes, to give their utmoſt aſſiſtance in the Affair: But for your ſatisfaction the King Com<g ref="char:EOLhyphen"/>manded me to let you know His Royal Pleaſure the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ein, and that He expects You to take Care that His Royal Intentions may be made Publick.</hi>
+                  </p>
+                  <p>
+                     <hi>I have alſo in Command that the Juſtices of Aſſizes, do take eſpecial Care to ſa<g ref="char:EOLhyphen"/>tisfy the Country in this particular; ſo Gentlemen having no more at preſent to trou<g ref="char:EOLhyphen"/>ble you, I crave leave to Subſcribe my ſelf,</hi> &amp;c.</p>
+                  <closer>
+                     <dateline>London <date>
+                           <hi>14th. Feb.</hi> 1686.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>After which time ſome of the Officers in further purſuance of their deſign, to baffle me in my proceedings for future, upon the alteration of ſome perſons in Office ſo repreſented me; that I was rendered thereby wholly uncapable of any thing, and by ſome greatly reflected on, 't<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll I had prevailed by the means of <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e eminent Merchants, to have a hearing before the Lords Com<g ref="char:EOLhyphen"/>miſſioners of His Majeſties Treaſury: At which hearing it was judged reaſonable, I ſhould be re-imburſt m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Charge in that Service, and ordered to bring my Accounts, and Certificates from Sr. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ob. Howard,</hi> what money was brought into the Exchequer by my Proſecutions; which being done, and their Lordſhips referring the whole matter to the Commiſſioners of Cuſtomes, in <hi>May</hi> 1687, upon receipt of which, the Commiſſioners were pleaſed to direct Letters to the Officers, (in whoſe Names I had proſecuted and paid in the money, as before mentioned) to know <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hither they did own what I had done, and ſome o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, (even thoſe very men, that I had directed how to Seize, and undertook to runn the risk, as be<g ref="char:EOLhyphen"/>fore mentioned, for their Advantage) were not only ſo baſe as to deny what I had done
+<pb n="13" facs="tcp:48712:14"/> for them, but alſo guilty of Forgery; ſo at that time I was rendered by ſome very Obnoxi<g ref="char:EOLhyphen"/>ous, and at the ſame time perplexed in the Court of Exchequer by the Exporters; and was forc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to pay great Summs in my own defence, and particularly for one Witneſs being his Bayle it coſt me near 50l.; notwithſtanding all which, I at laſt recovered my ſelf in my Reputation, and gave Anſwer to thoſe Officers Letters, and ſent it to the Commiſſioners as followeth. <hi>(viz.)</hi>
+            </p>
+            <p>Whereas it hath been objected that I pretend the Proſecution of Wooll and Veſſels, when is hath been done by the Officers, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etters are produced, which would ſeem to make good the pretence; to inſtance one for all, <hi>(viz.)</hi> Captain <hi>Knight</hi>'s to the Commiſſioners.</p>
+            <floatingText xml:lang="eng" type="letter">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe Your Honours,</salute>
+                  </opener>
+                  <p>
+                     <hi>The Wooll I have taken and ſeized was by my own Endeavours and Induſtry, Condemned by a due Courſe of Law, and the King's Moiety paid with my own Money: No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> I humbly pray your Honours that if his Majeſtie pleaſe to grant the Bounty, I may receive it for my En<g ref="char:EOLhyphen"/>couragement,</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>Your Honours moſt Obedient and Humble Servant</hi> Peter Knight.</signed>
+                     <dateline>Dover <date>
+                           <hi>the 9th. of</hi> June 1637.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>In anſwer thereunto, I ſhall annex the <hi>Aſſidavit</hi> of two of his own men, that prove, that Captain <hi>Knigbt</hi> was not at <hi>Dover,</hi> at the time of the date of the pretended Letter; but at Sea ſix Dayes before and four after, and by an <hi>Affidavit</hi> of his Sonns, that the matter in the Letter is Falſe, by which others ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be judged; beſides the matter of <hi>John Knight</hi>'s <hi>Affidavit,</hi> I did, in a late parcel of Wooll, Seized by the ſaid Captain <hi>Knight,</hi> Condemn and pay the Charge, and the King's full Moiet, as it was appraiſed; yet when I Sold it, I was forced to abate 3l. <hi>per.</hi> Pack of the Appraiſement, and ſtood to the loſs, ſingly, that I might not hinder the bringing up the Wooll, tho' it yeilded more Money at <hi>Dover</hi> than here, being done before the Proclamation came forth: The Truth of this Anſwer will appear in the following Affida<g ref="char:EOLhyphen"/>vits, <hi>(viz.)</hi>
+            </p>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>Robert Kedman <hi>and</hi> William Ayres <hi>maketh Oath, that theſe Deponents being employed under Captain</hi> Peter Knight, <hi>Commander of a Sloop to prevent the Exportation of Wooll, and having been at Sea with the ſaid Captain</hi> Knight <hi>as Mariners, in His Majeſties Service about tenn Days, came not on Shore from Sea, 'till Sunday laſt: by which reaſon they could not Appear according to the contents of a</hi> Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>iſſued out of this Honourable Court, requiring them to be at</hi> Weſtminſter <hi>on Munday l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt at one of the Clock, to give their Teſtimony for the King againſt</hi> Henry Culmer. <hi>And they could not poſſibly come to</hi> London <hi>before Teuſday morning l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt, and are come on purpoſe to give their evidence at the ſaid Tryal, which they apprehend to be on Thurſday, if they could not come</hi>
+                     <pb n="14" facs="tcp:48712:15"/> 
+                     <hi>time enough on Munday, and they are able to prove, that the ſaid</hi> Henry Culmer <hi>hath Exported divers quantities of Wooll, having taken him in the Fact of Ex<g ref="char:EOLhyphen"/>porting the ſame.</hi>
+                  </p>
+                  <closer>
+                     <date>Jur. Decimo ſept. Die Aprilis 1687.</date>
+                     <signed>Coram me, E. Atkins.</signed>
+                     <signed>Robert Kedman. W. A. the mark of <hi>William Aires.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>John Knight <hi>maketh Oath that being employed as Mate under his Father</hi> Peter Knight <hi>in the Service of the Cuſtomes, for about ſixteen Years paſt, he hath ob<g ref="char:EOLhyphen"/>ſerved that after the Seizures of Wooll by the Cuſtome Houſe Officers, the Own<g ref="char:EOLhyphen"/>ers of the Wooll, or ſome Agent for them generally bought the Wooll of the Offi<g ref="char:EOLhyphen"/>cers, which afterwards was Commonly exported, and this he hath the greater reaſon to believe, for that ſeveral times, when this Deponent hath been preſent at the Seizing of Wooll, after the ſame hath been condemned, he hath taken the very ſame parcels again at Sea, as it hath been Exporting the ſecond time.</hi>
+                  </p>
+                  <p>
+                     <hi>And that ſeveral Officers, after they have Seized Wooll, have delivered it to the Owners, without any Proceedings therein.</hi>
+                  </p>
+                  <p>
+                     <hi>And this Deponent further ſaith, that when his Father formerly made Seiz<g ref="char:EOLhyphen"/>ures of Wooll, he agreed with the Superior Officers of the Cuſtomes, to give them part of the benefit of his Seizures, beſides the full Charge of the Proſecution to Condemnation; by which the ſaid Officers generally had an equal Profit of the ſaid Seizures, with the ſaid</hi> Peter Knight; <hi>but ſince Mr.</hi> Carter <hi>hath looked after the Exporters, the ſaid</hi> Carter <hi>hath paid the ſaid</hi> Peter Knight <hi>all his Charg<g ref="char:EOLhyphen"/>es, in Taking, Appraiſing and Condemning the Veſſels and Wooll, and the full Moiety thereof clear of all Charges, and beſides when the Wooll Condemned was Sold for more than the Appraiſement, the overpluſs was paid by the ſaid</hi> Car<g ref="char:EOLhyphen"/>ter <hi>to his Father</hi> Peter Knight.</p>
+                  <closer>
+                     <date>Jur. Decimo Tertia die April Anno Dom. 1687.</date>
+                     <signed>Ed. Atkins.</signed>
+                     <signed>John Knight.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>And as to the Charge in General of my diſcouraging Diligent Officers.</p>
+            <p>In Anſwer to which, as the Affidavit of <hi>John Knight</hi> before mentioned, do in part prove the contrary: So I do Averr and ſhall make good, that in the Seizures of Wooll and Veſſels, that I have undertook to Proſecute, I have bore all the Charge and run the risk, in Caſe the Wooll and Veſſels were not Condemned, and have Proſecuted in the Officers Name, who have had the full benefit of the Moiety thereof, tho' I have been at the Seizing both of Wooll and Veſſels my ſelf.</p>
+            <p>And beſides the Charges in Proſecuting and condemning the ſaid Wooll and Veſſels in the Exchequer, I have actually paid amongſt the ſaid Officers near 200l. for their Charges about <hi>Dover</hi> in their Seizing, Appraiſing, and other Incidents, ſeveral of which Seizures had not I
+<pb n="15" facs="tcp:48712:15"/> undertook, the Officers would have let fall; by all which it doth appear, whether I have diſcouraged Officers, and gained my ſelf; when I have within this four Years ſpent 1000l. in Travailing, and in the ſaid Proſecutions, beſides Servants Wages and my own time, and keeping of Horſes, towards all which I have received between 2 and 300l.</p>
+            <p>After which time I Petitioned the Lords Commiſſionets of the Treaſury, laying before their Lordſhips my Caſe and Suffering in my Service, and what Damage His Majeſtie and the King<g ref="char:EOLhyphen"/>dome ſuſtained thereby; and had prepared for Tryal of a Tranſporter in Michaelmaſs Term, being not able to proceed and having borrowed diverſe great Sums to carry on the Affayre ſo farr; which being referred to the Commiſſioners of the Cuſtomes, they ordered their Soli<g ref="char:EOLhyphen"/>citor to disburſt the Money, upon which I proceeded, and as before caſt the Exporter; ſome time after I attended the Commiſſioners upon the former reference, who were pleaſed to make Report as followeth.</p>
+            <floatingText xml:lang="eng" type="letter">
+               <body>
+                  <opener>
+                     <salute>May it Pleaſe your Lordſhips</salute>
+                  </opener>
+                  <p>
+                     <hi>In obedience to your Lordſhips commands upon the annexed Petition, and other Papers of</hi> Mr. Carters, <hi>delivered to us by your Lordſhips in</hi> May <hi>laſt We have conſidered the ſaid Petition and Papers; and do humbly Report to your Lord<g ref="char:EOLhyphen"/>ſhips that we have obſerved the Petitioner to have been a very Zealous proſecu<g ref="char:EOLhyphen"/>tor of the Tranſgreſſions, and tranſgreſſors mentioned in the Petition, and that upon his motion the King was pleaſed about two years ſince, att his own charge to ſet out two Veſſels to prevent the Tranſportation of Wooll, which are conti<g ref="char:EOLhyphen"/>nued in that Service to this day, that in his proceedings he hath met with great oppoſition and difficulty, and upon that conſideration he has upon diverſe occa<g ref="char:EOLhyphen"/>ſion obtained favourable Reports from this Board; as a Perſon fit to be coun<g ref="char:EOLhyphen"/>tenanced and encouraged in his proceedings: yet we never intended that his charge was to be born by the King, ſuppoſing his recompence to be out of his ſhare of ſuch penalties and Forfiturs, as he ſhould himſelf Proſecute and recover, or ſhould be otherwiſe contributed to him, by the Merchants and Clothiers, who he alledged to be willing to undergoe the Charge, and by the Account hereunto annexed we find that he has run himſelf into very great Expence, and we are informed that not having met with the Encouragement he Preſumed upon from the Merchants and others, he has much leſſened his own private fortune there<g ref="char:EOLhyphen"/>by. <g ref="char:V">Ʋ</g>pon the whole Matter we are humbly of opinion that he has with great Heartineſs and Zeal, Proſecuted the Offenders and Veſſels, that have been Guilty in Tranſporting Wooll, and that he hath dealt therein with all Honeſty and Integrity, and we are humbly of Opinion that the ſaid Account hereunto annexed, is a true Account, he having offered to make Oath of the Truth there<g ref="char:EOLhyphen"/>of, and we do Humbly recommend the ſame to your Lordſhips Favourable con<g ref="char:EOLhyphen"/>ſideration, but we cannot adviſe the diſpoſing of his Majeſties part of the For<g ref="char:EOLhyphen"/>fiture, otherwiſe than they are already diſpoſed by Proclamation.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Cuſtom-Houſe <date>February the <hi>18th.</hi> 1687.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>N. B.</item>
+                           <item>J. W.</item>
+                           <item>D. N.</item>
+                           <item>W. C.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="16" facs="tcp:48712:16"/>
+            <p>In which Report you may perceive my Actions and Integrity, and that I have not re<g ref="char:EOLhyphen"/>ceived the Money I have expended, much leſs any thing for my Time, Hazard and Labour, nor for my Servants, or keeping of Horſes theſe four Years, beſides former Disburſtments, part of which was before mentioned in the late Lord Cheif Baron's Report; more you may perceive by theſe following Lines, what I Wrote to the Merchants and Clothiers, and Print<g ref="char:EOLhyphen"/>ed it, as an Advertiſement to them, in the Year 1672. <hi>(viz.)</hi>
+            </p>
+         </div>
+         <div type="notice">
+            <head>
+               <hi>A Brief Advertiſement to the Merchants and Cloathiers,</hi> &amp;c.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>I Had an Intention, the beginning of the laſt Summer, (before a long and chargeable Fit of Sickneſs befel me for near three Months,) to inform you in what ſtate that Affair about Exportation of Wooll, then ſtood; in which the Life and Death of your Trade, and the ſubſiſtence of many Thouſands of Families, that depend on that <hi>Manufacture,</hi> conſiſts.</p>
+            <p>Give me leave, (by ſome of the many inſtances I could give,) to demonſtrate, that, my Labour, in this affair, hath not been fruitleſs altogether.</p>
+            <p>I have now been four years engaged in this Service: and how I have been forced, as well upon Travils, as Watching both by Sea and on ſhore, I preſume is well known to many of you.</p>
+            <p>And what expence I have been at, in that time, both for ſervants and horſes, and in my at<g ref="char:EOLhyphen"/>tendance at Court, and on the Parliament, gratuities to Sea-men, and parties of horſe, and for the holding, and maintaining correſpondencies in <hi>Ireland, Flanders, &amp;c.</hi> you cannot but in ſome meaſure be able to appehend.</p>
+            <p>And that it muſt be the greater, in that I have not ſpent ſix daies, in twelve Moneths, at my own habitation, with my Friends: either to abate expences, or to look after any private bu<g ref="char:EOLhyphen"/>ſineſs of my own.</p>
+            <p>What damage I have ſuſtained, by loſing my Trade in purſuance of this affair, is wel known (at leaſt) to ſome: for,</p>
+            <p>When firſt I undertook this Affair, I intended to ſpend only one Moneth, or there about, in attending on the Parliament for a new Act, which held me near ſix Moneths; and at the Adjurnment of the Parliament, I returned to my calling; it being kept on foot for me, during the time of my attendance.</p>
+            <p>But thoſe that knew my Trade at that time, know right well what opportunities of advan<g ref="char:EOLhyphen"/>tage I le<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ſlip.</p>
+            <p>Therefore it muſt be a great miſtake in ſome, that think I took up this Affair, as though I had nothing elſe to doe.</p>
+            <p>For I was importuned by ſeveral Merchants and Others, ſoon after the Adjurnment of the Parlament, to addreſs my ſelf unto his Majeſtie in Council, for a Party of Horſe, to be in <hi>Rum<g ref="char:EOLhyphen"/>ny Marſh</hi> in <hi>Kent,</hi> where the greateſt part of the Wooll is ſhipped from <hi>England;</hi> and ſome Frigats, for preventing the ſaid miſchief; which through his Majeſties favour and incourage<g ref="char:EOLhyphen"/>ment, I did obtain.</p>
+            <p>Upon the promiſe of thoſe Merchants, to re-imburſe my charge, I proceeded.</p>
+            <p>And had thoſe Merchants and Others, perform'd their promiſe, as ſome few did, I had done much more than I have, (though I have left nothing undone, that I was capable to per<g ref="char:EOLhyphen"/>form, or doe, conſidering how little aſſiſtance I had from others) and indeed, my endeavours in this buſineſs, have had ſo good ſucceſs, as to prevent many Thouſand Packs of Wooll from exportation, that the effect evidenced it ſelf (at that time obvious to many Merchants, from their correſpondents beyond Sea,) in the riſe of Wooll there and the fall here.</p>
+            <pb n="17" facs="tcp:48712:16"/>
+            <p>But ſhould it now hereafter, for want of incouragment and attendane miſcarry, how much it will wound <hi>Englands</hi> trade to the heart, I need not tell you, for, ſuch is the gaine and in<g ref="char:EOLhyphen"/>couragemend, for the tranſporting of this commodity, that if any imployed, or entruſted in this affair, will be bribed, they need not make complaint for want of Money, I do aſſure you: and if I for my integrity muſt fall, (and be forced to quit thes ſervice,) after all this four years labour and travail, It will be no encouragement to any other Peaſen, to engage a-freſh therein.</p>
+            <p>Give me leave to adde, that it was no ſmall grief to me, during my ſickneſs, to here of the many hundred packs of Wooll that were exported, (both from <hi>England</hi> and <hi>Ireland,)</hi> more than had been at other times, which you will eaſily ſee in the enſuing Petition and Let<g ref="char:EOLhyphen"/>ter; and my trouble was ſo much the more for as much as the King had given Order, a little before, that a Veſſel purpoſely hired, becauſe of Her ſwiftneſs, ſhould attend that affair, and though I had made proviſion (by correſpondante) for intellegence to prevent that miſchief, yet I had not Money to pay Servants, nor to encourage my coriſpondents, nor that I could find any willing or able to purſue the ſaid buſineſs, either becauſe of the hazard or pains, or expenſiveneſs thereof. The effect of which about <hi>Michalmus</hi> laſt, occaſioned this following Petition.</p>
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <head>To the Kings moſt excellent <hi>Majeſty</hi> The Humble Petition of ſeveral Merchants.</head>
+                  <opener>Sheweth,</opener>
+                  <p>THat although many ſevere Laws, have been made againſt the Tranſportation of Wooll; nevertheleſe, many evil-diſpoſed Perſons, do frequently Ship-off great quantities thereof to the great decay of the Cloathing-Trade of this Kingdom, and to the undoing of many thou, ſant Families, who lived comfortably thereupon: and being through an ill cuſtom, ſold in<g ref="char:EOLhyphen"/>forraign parts, as cheap as in many many places of this Kingdom; by means whereof, the Woollen Manufacture of this Nation, findes but ſmall vend abroad, and dayly decreaſeth in price; ſo that neither the Clothier, nor Merchant, have any incouragement, in making, or tranſporting the ſame; together with ſuch great duties impoſed by the <hi>French</hi> King, and O<g ref="char:EOLhyphen"/>thers; as in effect amounts to an abſolute prohibition, (and that no purpoſe to incourage the Manufacture of their own Country.) Which if by ſome effectual means, be not ſpeedily pre<g ref="char:EOLhyphen"/>vented, muſt in a ſhort time, wholy deſtroy the great Manufacture, and Staple trade of this your Majeſties Kingdom and conſeqvently to the decreaſing of your Majeſties Revenues, of the Cuſtom; and that more particularly of late dayes, a greater quantity of Wooll, hath been tranſported then formerly, by reaſon, as is doubted, of the connivance of ſome Officers, and eaſily compounding with the tranſporters when diſcovered, which gives great incouragement to thoſe Perſons, to continue in this moſi deſtructive courſe</p>
+                  <closer>Your Petitioners moſt humbly pray, that your Majeſtie, would be pleaſed to iſſue out your Royal Proclamation, commanding all Officers and Others, to put the Laws in execution, that ſo all may take notice thereof: there being many poor people imployed in ſhipping off the Wooll, who pretend ignorance, and know not the Penalty of the Law: and that no compounding be made with any, but the Laws may be ſeverly put in execution, againſt all Perſons that may be found guilty.</closer>
+               </body>
+            </floatingText>
+            <pb n="18" facs="tcp:48712:17"/>
+            <p>And tho' I have before upon this occaſion incerted the ſubſtance of a Letter Dated, <hi>Flanders March</hi> the <hi>5<hi rend="sup">th</hi>.</hi> 1671. yet I cannot wave a repitition of this part of it.</p>
+            <floatingText xml:lang="eng" type="letter">
+               <body>
+                  <opener>
+                     <salute>Sir</salute>
+                  </opener>
+                  <p>I received yours of the 17/27 <hi>February,</hi> under Covert from <hi>&amp;c.</hi> about the Wooll-affair. I have much reaſon to believe, unleſs ſome are made Examples, there will be continual abuſe; the Commodity, both <hi>Engliſh</hi> and <hi>Iriſh,</hi> Raw and Comb'd, abound ſo much in theſe Countries, as at preſent it's worth nothing. &amp;c.</p>
+                  <p>Now Sirs, how both theſe do anſwer, to what was ſaid before, that unleſs this Buſineſs be continually attended, by ſome Perſon, that will be faithful; there will be an inevitable ruine of the Clothing Trade, may be eaſily perceived.</p>
+               </body>
+            </floatingText>
+            <p>Give me leave further to inform you, what great Senſe his Majeſty himſelf hath alſo of this Affair; who hath been pleaſed to evidence it, both by his Care and Charge, in not only com<g ref="char:EOLhyphen"/>manding His Troops, but ſeveral Frygots to attend upon every Occaſion, beſide his Hireing a Veſſel; he alſo hath ſpent many dayes in Council about it; and in declaring his reſolution, ſtrictly to execute all the Laws againſt the Tranſportation of Wooll, and to further all rational Propoſals, that can be f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rther made; and did order (upon reading the fore-mentioned Peti<g ref="char:EOLhyphen"/>on of the Merchants) his Royal Proclamation, to be iſſued out about this Matter.</p>
+            <p>Now for a concluſion, Gentlemen: If this ſervice be acceptable, and that it be carryed on, you cannot imagine, it can be done without ſupplies. For, you cannot expect the King ſhould take the charge of it wholly upon himſelf; of which, the profit will moſtly return to his Subjects. Nor that I ſhould, if I were able, bear it my ſelf, though indeed I have done it beyond what my condition could well permit me; and it's very plain, what hath been the conſe<g ref="char:EOLhyphen"/>quence of my being diſcouraged, and taken (wholly off) but three Months from this Affair.</p>
+            <p>Sirs, I hope you will believe, and i'ts but Rational, ſo to do; if I have ſpent ſo much of my time, and ſtrength, moſtly upon my own charge, with thoſe hazard I have been expoſed to, theſe four years, in this Affair, with that little incouragement I have received: that if incour<g ref="char:EOLhyphen"/>aged but with neceſſary ſupplies, ſo that I might not be taken off my purſuit, that I might do much more than I have; and the rather, becauſe every thing is more eaſie than it was at firſt, having diſcovered ſo many Perſons, and their wayes, and ſeveral in cuſtody, in order to their Tryal, ſome Convicted: its Rational, at leaſt to ſuppoſe the way fair, to put a ſtop, to this moſt deſtructive courſe.</p>
+            <p>Gentlemen, Theſe inſtances are not of ſmall import. To the whole Affairs, and that the a<g ref="char:EOLhyphen"/>gitations about them: call for no ſmall attendance and travel; nor is it without its own charges, accompanying diſpatches.</p>
+            <p>I have alſo given Declarations to two Perſons, for tranſporting above three Hundred packs of Wooll, and had prepared Tryals with them; but was forced to forbear two or three Terms for want of Aſſiſtance to proſecute them; for ſuch Potent Perſons, are not eaſily run down: if they, and their Confederates know once with whome they have to doe, (if they will not be bribed) and that Money is wanting to proſecute, they can finde wayes by Friends, and Money, to make Suits delatory and chargeable; beſides an other miſchief, of taking off Witneſſes: Of which you will ſee a Demonſtration afterwards.</p>
+            <p>At <hi>Eaſter</hi> or <hi>Trinity</hi> Term 1669, one Mr. <hi>John Morten</hi> proſecutes <hi>Mark Gabree</hi> in the Exche<g ref="char:EOLhyphen"/>quer, for tranſporting of Wooll. The ſaid <hi>Gabree</hi> removes it into <hi>Surry,</hi> where Mr. <hi>Morten</hi> brings it to Tryal, <hi>Midſomer</hi> Aſſizes following, and ſubpena's one <hi>Thomas Petley,</hi> who had been <hi>Gabrees</hi> Wooll-Kember: <hi>Morten</hi> obtains a Verdict againſt the ſaid <hi>Gabree;</hi> but ſo it was ordered, that whereas the forfiture was three Shillings <hi>per</hi> pound, he had but twelve pence: and being but a ſmall parcel, he loſt by it.</p>
+            <p>At <hi>Michaelmas</hi> following, the Tryal aforeſaid, <hi>Gabree</hi> arreſts <hi>Petley,</hi> by a Writ of the Crown Office for Perjury, out of revenge; and to undo him, being but a poor man, and make him uncapable of being Witneſs any more; and to deter others.</p>
+            <p>At <hi>Mid<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mmer</hi> Aſſizes 1670, <hi>Gabree</hi> pretends to come to Tryal: but when he ſaw <hi>Petley</hi> ap<g ref="char:EOLhyphen"/>pear, and had his Witneſſes for his defence, he let it fall that Aſſize.</p>
+            <pb n="19" facs="tcp:48712:17"/>
+            <p>Since <hi>Michaelmas,</hi> Seventy one, <hi>Petley</hi> is again arreſted as aforeſaid.</p>
+            <p>But I have now preſented hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Caſe to his <hi>Majeſty,</hi> elſe he would have been utterly ruin'd; and now the ſaid <hi>Gabree</hi> is in Cuſtody, being owner of the Wooll, taken at <hi>Graveſend,</hi> as aforeſaid.</p>
+            <p>I ſhall conclude with a few particular Inſtances, that I obſerved in attending the Parliament, of which I only hinted ſome thing in <hi>page 5<hi rend="sup">tb</hi>.</hi>
+            </p>
+            <p>To begin with a Motion made in the Houſe of Commons 1670, when that Houſe were under conſideration of raiſing Money for His Late Majeſty's ſupply, it being then taken for granted, that there were great quantitys of Wooll clandeſtinely exported from <hi>Ireland</hi> to Forreign Parts, it was then propounded, that a Tax of 2<hi>d.</hi> or 3<hi>d. per l.</hi> might be laid upon ſuch Wooll for three Reaſons, then given, <hi>(viz.)</hi> Firſt, it would make it ſo Dear to Foraigners, that the <hi>Engliſh</hi> could under ſell them in our Manufactury. Secondly, It would raiſe a great Revenue to his Majeſtie. Thirdly, It would be an inducement to the Officers, to be more careful to look after the Cuſtome, and ſo leſs would go: This ſeemed to many Wiſe Grave Se<g ref="char:EOLhyphen"/>nators at firſt, to be very Feſible, until I gave Anſwer to it. And that was thus.</p>
+            <p>
+               <hi>Anſw.</hi> 1. As to 2. <hi>d.</hi> or 3. <hi>d. per</hi> pound dearer, ſignifies nothing: For if they Enter 10 Packs, there ſhall go off a 100 Packs Unentred. But grant it did all pay that Cuſtome there in <hi>Ireland,</hi> it pays no Cuſtome when it's Imported in <hi>Holland, Flanders,</hi> or <hi>France;</hi> and then to conſi<g ref="char:EOLhyphen"/>der the Cuſtome it paid here to his Majeſtie upon our Woollen Manufactury, when Exported, which is above five pound for a Pack of Worſted-ſtuffs, <hi>&amp;c.</hi> and it's ſuch Wooll that is covet<g ref="char:EOLhyphen"/>ed; and that as before the <hi>French</hi> King laying ſuch an Impoſt upon our <hi>Engliſh</hi> Woollen Manu<g ref="char:EOLhyphen"/>facturies, of 20 or 30 <hi>per cent,</hi> this overballanceth by ten parts the firſt Reaſon, and beſides a<g ref="char:EOLhyphen"/>bout the Manufactors working ſo much cheaper, which I humbly ſuppoſe, is a ſufficient Anſwer to the firſt Reaſon of the Motion.</p>
+            <p>
+               <hi>Anſw.</hi> 2. As to his Majeſties Revenue by 2 <hi>d.</hi> or 3 <hi>d. per</hi> pound, is anſwered in ſhort; The Cuſtome paid as above upon the Export of our Woollen Manufacturies, is double that Cuſ<g ref="char:EOLhyphen"/>tome; but the Cuſtome upon the Importation of the Product thereof, may amount to three times the worth of the Pack of Wooll; from hence may be concluded, That his Majeſties da<g ref="char:EOLhyphen"/>mage by the quantity that is aſſerted to be Tranſported, cannot be leſs than one Million of pounds Starling; ſo that this alſo is Anſwered.</p>
+            <p>
+               <hi>Anſw.</hi> 3. As to the Officers inducement, I ſhall anſwer in ſhort, by asking this ſingle Queſ<g ref="char:EOLhyphen"/>tion, <hi>(viz.)</hi> Which in reaſon can be the greateſt Inducement, 3 <hi>d. per</hi> pound for Cuſtome, or 3 <hi>s. per</hi> pound Forfiture, of which three parts is given to the Proſecutor, who muſt be ſup<g ref="char:EOLhyphen"/>poſed to be more watchful to gain the Forfieture, than the Cuſtom for the King, if Shipt to be Tranſported, which is now in Force and Recoverable? But there was more in the bottom, For within a day or two of the ſaid Motion, there was a Noble Lord did affirm in the Com<g ref="char:EOLhyphen"/>mittee for Wooll, that his Lordſhip was offered a hundred thouſand pound Sterling, to paſs an Act for Tranſportation of Wooll; and beſides, there is a Petition of many years ſtanding, that within this few months I had a view of, for Combed Wooll to go off upon the ſame pre<g ref="char:EOLhyphen"/>tence as before; alledging it is courſe Wooll, and not for the Clothier. It's true, that it is not fit for Cloth, but it is for Worſted-ſtuffs, and Stockings, which is as prejudicial, if not more than Clothing Wooll.</p>
+            <p>By which that motion fell to the ground, but ſome time after the petition before mention<g ref="char:EOLhyphen"/>ed, did appear bare Faced, of which I wrote in a Letter to the Merchants and Cloathiers <hi>(viz.)</hi> in 1686 Comprehending what paſt in Parliament from 75 till that time, <hi>(viz.)</hi> I be<g ref="char:EOLhyphen"/>gan this.</p>
+            <p>Perceiving at length what I had for ſome time a ſuſpition of, that ſome Perſons at the then next Seſſions of Parliament, did not only appear to juſtify the Fact of Tranſportation of Wooll privatly, but did appear publickly and in Print, to aſſert and avow the conveniency that it would be to this Nation; and therefore did deſire, that an Act of Parliament might be made for a limited Exportation, giving alſo ſome pretended Reaſons for the ſame.</p>
+            <p>In <hi>March</hi> 1676 a Bill was put into the Hand of an Eminent Member of the then Houſe of Commons, to be brought into that Houſe, with whome I had ſome Diſcourſe, and did ſo far diſwade him to delay, till the following Letter prevail'd on the <hi>Factors,</hi> and ſome <hi>Clothiers</hi> then in Town, to aſſiſt me.</p>
+            <pb n="20" facs="tcp:48712:18"/>
+            <floatingText xml:lang="eng" type="letter">
+               <body>
+                  <opener>
+                     <date>
+                        <hi>March</hi> the 22<hi>d.</hi> 1676</date>
+                     <salute>Sirs,</salute>
+                  </opener>
+                  <p>Having been at <hi>Weſtminſter</hi> this day, and ſpake with divers Members, I find the Argu<g ref="char:EOLhyphen"/>ments for the Exportation of Wooll, have ſo far prevailed with the Parliament-men, that a Bill is already put in Sr. <hi>T. M</hi>'s. Hand to bring it into the Houſe which may be done this very day (altho' I had ſome Diſcourſe with him about it and did endeavour to diſwade him from it)</p>
+                  <p>The Conſequence of which, ſeeing it muſt tend to the utter Ruine of the Cloathing Trade, and ſeeing I have done the utmoſt that can be expected on my part to prevent it, which is to draw up Reaſons effecttually to make out the Inconvenience of it, which I have alſo put into the Printer's hand.</p>
+                  <p>I thought it my Duty therefore, further to acquaint you, that unleſs ſome further ſpeedy Courſe be taken for a general meeting, to conſider how, and in what manner this Miſchief ſhould be obviated. I conceived the Intreſt of the Clothier would ſuddenly have grown deſ<g ref="char:EOLhyphen"/>perate, ſeeing no private or ſingle Mans appearing in this Caſe, who ever he be can ſignify any thing to oppoſe it.</p>
+                  <p>I am much convinced, that not only the Cloathing Trade, but the very Intreſt of the Na<g ref="char:EOLhyphen"/>tion in general is at ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ake, and in hazzard to be utterly loſt, if this Point ſhould now be wholy neglected? This I have for ſome years foreſeen, and have talked of, but it hath not been regarded, but you will find that I ſpake not ſlightly, but on good grounds<g ref="char:punc">▪</g> and what there is juſt Cauſe to ſuſpect, will come to paſs, if this Matter be not with Induſtry and Dili<g ref="char:EOLhyphen"/>gence prevented.</p>
+               </body>
+            </floatingText>
+            <p>After I had prevailed with the Clothiers to give me ſome encouragement; I did then en<g ref="char:EOLhyphen"/>deavour to uſe proper Arguments, and took a fit Seaſon to preſent them, when the Houſe of Commons was ſo earneſt for the prohebiting <hi>French</hi> Commodities, laying before them, that the Wooll endeavoured to be limited for Tranſportation was principally intended for <hi>France,</hi> which proved ſo effectual for the Ends deſigned; which Arguments I refer you to for your fur<g ref="char:EOLhyphen"/>ther ſatisfaction.</p>
+            <p>After this was laid aſide, the next Seſſions of Parliament comes a Gentleman that hath been all along my Competitor <hi>(viz.)</hi> Mr. <hi>Munk</hi> as in <hi>p.</hi> 8 and brings in a Bill, and prevail<g ref="char:EOLhyphen"/>ed ſo far as to get it read and committed, upon which I drew up the following Petition, which was ſigned by ſeveral Merchants and Factors, <hi>viz.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <p>Whereas <hi>there is a Bill depending, the Parliament whereof ſeems to be againſt Tranſ<g ref="char:EOLhyphen"/>portation of Wooll, the Scope and Conſequence of it (as is humbly conceived) will tend rather to encourage it: For whereas it is ſuggeſted in the ſaid Bill, that the Act made in the</hi> 14th, <hi>Year of His Majeſties Reign, making Tranſporting of Wooll Felony, is ineffctual for the preventing thereof, and therefore prays the Re<g ref="char:EOLhyphen"/>pealing the Felony of that Act, without confirming the reſt of that Act; as if ma<g ref="char:EOLhyphen"/>king Tranſportation to be Felony did encourage Tranſporting; that Suggeſtion with all ſubmiſſion is conceived to be a great miſtake: For though it muſt be grant<g ref="char:EOLhyphen"/>ed (whatever Laws have been or ſhall be made in this caſe) that ſome Perſons for their own Lucre (though it be never ſo much to the Damage of the great Manu<g ref="char:EOLhyphen"/>facture of this Kingdom, and notwithſtanding all the Care imaginable) will adven<g ref="char:EOLhyphen"/>ture to Tranſport Wooll. Yet for ſome Years after the Act of the</hi> 14 Car. 2. <hi>was in force, there was a great ſtop put to the ſaid Tranſportation, until wooll ſo increaſ<g ref="char:EOLhyphen"/>ed in</hi> Ireland <hi>beyond its Conſumption there and here, that great Quantities were actually Tranſported from thence; but till that Glut the Act of the</hi> 14th. <hi>Year of His Majeſties Reign (by which the Forfeture was Three Shillings for every pound of Wooll beſides the Wooll forfited) conjoyned with the Act in the</hi> 14th. <hi>Year of His Majeſties Reign, was found effectual to prohibit Tranſporting Wooll, for</hi>
+                     <pb n="21" facs="tcp:48712:18"/> 
+                     <hi>the Proſecutor having liberty to Proſecute upon what Act he pleaſe.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>If the Act againſt Felony were repealed, there would be much more Wooll exported then hath been done; for although few Perſons that have any conſiderable Eſtate do now appear in the very Fact of the ſaid Exportation, but moſt times poor men; therefore in reaſon it cannot but be ſuppoſed if t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Act which makes it Felony were repealed, none elce but poor men would do it, and then to what purpoſe would that Act be of making the Forfiture, Three Shillings <hi>per</hi> pound; to be ſure no one would be at the Charge to pro<g ref="char:EOLhyphen"/>ſecute. But then of the other hand, experience is of ſome uſe in this caſe: I remember that I proſecuted ſeveral P<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſons for Exporting of Wooll about the Year 1672, upon that Act of Felony, by the p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cule<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of King <hi>Charles</hi> the ſecond; and did Convict Fower of them, as in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <hi>7th</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch put ſome ſtopp at that time to the ſaid Exportation, ſo that both in reaſon and experience that Act ought to ſtand.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o all which <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> did what hath been done ſince <hi>May</hi> 1687. finding the work ſo great, both in the Ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ge and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and too much for my ſelf to carry on alone, being ſo much <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> though <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> much for the King and Kingdoms good, not being will<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to the Ground; a third Petition was drawn up by order of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Clothiers in <hi>Exon</hi> (who by their Mayor had Petitioned the late King <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Kings <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Woollen Manufacture in his dominions) pur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> before mentioned <hi>page.</hi> 11 and 2, and there being a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roclamation <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, the ſame was at laſt agreed to, by the ſaid Commitioners of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roclamation Clauſes were deſired in the Petition to be added <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Merchants and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>London,</hi> to appoint perſons to Seize <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to Collect voluntary Contributions, to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> King, undertook to have it added to the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to carry the Petition and Clauſes, to the Clerk of the Cou<g ref="char:EOLhyphen"/>cil; <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Kings him<g ref="char:punc">▪</g> that day to the Proclamation, and whilſt I was there <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought that the Commiſſioners of the Cuſtoms would not have any <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, ſo I loſt my labour, and the Proclamation came forth without th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Clauſes<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s I kept things on foot, though with great difficulty; and pro<g ref="char:EOLhyphen"/>ſecuted divers <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Exchequer, and convicted one <hi>Henry Colmer,</hi> whoſe Tryal I mentioned in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, but not his name; which <hi>Colmer</hi> was to be employed by the order of Sr. <hi>Nicoles <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er.</hi> in the Room of Capt. <hi>Knight,</hi> when I petition<g ref="char:punc">▪</g>d the late King in <hi>July</hi> 1685, for the Two Sloops then laid down by the Commiſſioners <hi>page 10th.</hi> After which time I dr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w upon the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Petition ſigned by ſeveral clothiers and Factors, which being re<g ref="char:EOLhyphen"/>fer'd to the Commiſſion<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the cuſtoms<g ref="char:punc">▪</g> and upon their Report at laſt did conſent what they had a long time oppoſed, and upon their Report to the Council, Mr. Atturney General was ordered to draw up a Commiſſion, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich paſt the Broad Seal the <hi>28th.</hi> of <hi>June</hi> 1688, and the ſame day I was Inportuned by ſom of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Commiſſioners to ſend down Two Men and Horſes into <hi>Kent</hi> and <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of inſpecting <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preventing that Miſchief, being then Shearing-time which accordingly I did do the very ſame day; and defrayd the Charge my ſelf.</p>
+            <p>That ſome time after was ord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by a Committee of the ſaid Commiſſioners, to fitt out Two Sloops to be at Sea, and two or three Men more at Land to attend that Service, and when they were fitted I went down and g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve directions therein from time to time, and prevented great quantities of Wooll from Exportation, and ſome Veſſells ſeized, and ſome Wooll taken in the Night time<g ref="char:punc">▪</g> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the ſame was Carrying on Horſe Backs to the Sea Side, and ſome of the Exporters themſelves ſecured, who diſſovered near Thirty others; againſt the Cheifeſt of which I procured a Warrant from the late Lord Cheif Iuſtice <hi>Wright,</hi> and with as much warineſs as I could (ſome of them before hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Abſconded) was ſecured 8 or 10 of the Cheifeſt of them and deſired the M<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>or o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ney</hi> to Committ them, but he admitted them to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aile, tho I <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hard <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the contrary; But he was not ſo well pleaſed that I did not come <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> poſſible I ſhould have hardly got one of them upon that Warrant, and good reaſon for that he himſelf is ſince diſcovered
+<pb n="22" facs="tcp:48712:19"/> to be, and is now proſecuted for the ſame Fact. I ſhall conclude with theſe following Affi<g ref="char:EOLhyphen"/>davits, <hi>viz.</hi>
+            </p>
+         </div>
+         <div type="affidavits">
+            <head>
+               <hi>The Information of</hi> James Webb. John Edwards. <hi>and</hi> Henry Spillet.</head>
+            <div type="affidavit">
+               <p>THeſe Informants maketh Oath, that being employed in the Executing of a Warrant from the Lord Cheif Juſtice againſt ſeveral Exporters of Wooll, living in <hi>Rumney;</hi> and was on the <hi>11th</hi> Inſtant ſeverally informed of Thirty Packs of Wooll, intended to be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hipt and tranſported that Night. Theſe Deponents, <hi>James Webb</hi> and <hi>John Edwards,</hi> together with <hi>John Milner</hi> was arreſted in ſeveral Actions, on purpoſe, as theſe Deponents beleive to prevent them of Seizeing the ſaid Wooll; that at or near the ſame time one <hi>John Slaughter</hi> a Tranſporter of Wooll, and one that was taken upon the ſaid Warrant, &amp; bound over to the Aſſizes; came with a Hanger into the Room, and provoked them to Fight; until by the Mayor of <hi>Rumney</hi> was forced to be gone, the next Morning theſe Deponents preparing for <hi>Lyd,</hi> news was brought there, that the ſaid <hi>John Slaughter</hi> was come Armed with Ten other perſons near at hand, and Ten more expected to Aſſault theſe Deponents; Mr. <hi>Carter</hi> and his Company, upon which news the ſaid Mr <hi>Carter</hi> ſent to the Mayor, to diſire him to keep the Peace, and ſhortly after went to <hi>Lyd,</hi> and being in<g ref="char:EOLhyphen"/>formed there alſo ſum intentions to Export Wooll that Night, whereupon theſe Deponents and Company, prepared to go out to the Sea-<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, about Eight of the Clock that Night, and going in the Street, were aſſaulted b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſeveral per<g ref="char:EOLhyphen"/>ſons unknown, and one of our Company Wounded, but afterwards diſcovered one to be the Bayliffs Son of <hi>Lyd,</hi> who came to our Lodging and threatned that if any ſtirred out of the Houſe, we ſhould be fired at, out of the Town; or words to that effect, he being ſent by the Bayliff his Father, as he ſaid: But the reaſon as theſe Deponents beleiveth, was that they might not be interupted in the exportation of Wooll, as before intended; that about one of the Clock at Night, agreat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ody of Horſe and ſome Foot, (ſuppoſing after they had Shipt the Wooll) came about the Houſe where we Lodged, Fireing ſeveral times; Shouting and Railing upon us, but upon the Importunity of Mr. <hi>Carter;</hi> theſe Deponents, nor any of the Company did Fire any Gun, when we had the op<g ref="char:EOLhyphen"/>pertunity of Killing of them, and were provoked in our own deſence ſo to do: Theſe Deponents further maketh Oath, that when it was light, they went to the ſaid Baylfls Houſe about the Ryot, and defireing his Aſſiſtance in the ſearch after the perſons Guilty of the ſaid Ryot; and asked whether there was any Watch in the Towne the Night before, as his Son pretended that there was, but inquiring into it by ſeveral Jurats and others, and conſtable, found there was no Watch that Night, nor any ordered nor had been along time before: That about Ten of the Clock the ſame day theſe Deponents, was followed by a<g ref="char:EOLhyphen"/>bout Fifty Horſemen, near the <hi>Camber point,</hi> over againſt <hi>Rye.</hi>
+               </p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>James Webb.</item>
+                        <item>John Edwards.</item>
+                        <item>Henry Spillet.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <pb n="23" facs="tcp:48712:19"/>
+               <p>This Deponant, <hi>John Edwards,</hi> further maketh Oeth; that all the men ex<g ref="char:EOLhyphen"/>cept two with the horſes, got into their Sloops Boats lying ready for them, an perceiveing that ſome of he horſemen riding near the two men with our horſes, the ſaid men left their horſes on the <hi>Camber-point,</hi> and got into a Boat and put off; but the horſemen fired both at the men in the Boat, and alſo at the horſes; and here ſince that one of the horſes is killed.</p>
+            </div>
+            <div type="affidavit">
+               <p>
+                  <hi>JAmes Atkins,</hi> Maſter of a Veſſel called the <hi>Dilligence;</hi> did ſee a Party of Horſe armed, following Mr. <hi>Carter</hi> and ſeveral of his aſſiſtance, the <hi>13th.</hi> Inſtant <hi>December;</hi> intending as this Deponent beleiveth to do ſome miſcheif to them, for that ſome of the horſemen fired at his men in a Boat, as they was com<g ref="char:EOLhyphen"/>ing off the <hi>Cumber;</hi> the Shot Grazing near the Boat.</p>
+               <closer>
+                  <signed>James Atkins.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <p>
+                  <hi>JOhn Syer</hi> Marriner, maketh Oath; that being imploved in a Veſſel, call<g ref="char:EOLhyphen"/>ed the Merchants Deſec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e; to prevent the Exportation of Wooll, he the ſaid Deponent was required, with ſeveral others to aſſiſt in the Execution of the Lord Cheif Juſtice Warant, againſt ſeveral Exporters of Wooll; and having performed that ſervice the <hi>12th.</hi> of this inſtant <hi>December,</hi> came that day to <hi>Lyd,</hi> in order to go to <hi>Rye;</hi> on Board their Veſſel then lying at Anchor there. And about Eight or Nine of the Clock in the night time, he with the reſt of his company at the requeſt of Mr <hi>Carter;</hi> was going towards the Sea-ſide to Seize, or Preven the Exportation of Wooll; which was ſuppoſed to be intended to be tranſported that night, and as this Deponent and Company, were going through the Street, was ſet on by ſeveral perſons unknowne, who received ſe<g ref="char:EOLhyphen"/>veral Wounds, and afterwards found one of the perſons to be the Bayliſſs Son of <hi>Lyd,</hi> after which time ſeveral perſons came to this Deponents Lodgings, Firing ſeveral times, and railed upon this Deponent and Company.</p>
+               <p>And this Deponent further maketh Oath, that the next day being the <hi>13th,</hi> inſtant, he with the reſt of the Company coming toward <hi>Rye</hi> aforeſaid, was purſued, by about fifty horſmen or thereabouts, armed and had not the Boats belonging to ſeveral Veſſels gave their attendance and took us in, we might have been diſtroyed.</p>
+               <closer>
+                  <signed>John Syer.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <p>
+                  <hi>RAndal Goſley</hi> maketh Oath, that on the <hi>13th</hi> inſtant <hi>December;</hi> there being a great Body of Ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe come on the <hi>Camber</hi> near <hi>Rye,</hi> being ſup<g ref="char:EOLhyphen"/>poſed <hi>Iriſh,</hi> or <hi>French;</hi> which put the Town of <hi>Rye</hi> into a great fear, and be<g ref="char:EOLhyphen"/>ing on the other ſide of the Harbor, the Majeſtrates ſent ſome Perſons in a Boat, to diſcover who they were, and the Reaſons being enquired into, was to do ſome miſcheif to Mr. <hi>William Carter,</hi> and his Aſſiſtance; who had taken up ſum Perſons for Tranſportation of Wooll: Theſe Horſemen following them ſo faſt that Mr. <hi>Carters</hi> Men could not get their Horſes over the <hi>Ferry,</hi> but left them on the <hi>Camber Point.</hi>
+               </p>
+               <pb n="24" facs="tcp:48712:20"/>
+               <p>This Deponent, being afterwards ſent, by the ſaid Mr. <hi>Carter;</hi> to look after the Horſes, went as farr as <hi>Lyd,</hi> where one <hi>John Slaughter</hi> owned the Horſes to be in his Cuſtody, and would keep them ſo for damages, pretend<g ref="char:EOLhyphen"/>ed to be done him by the ſaid Mr. <hi>Carter;</hi> and further ſaid that his name was <hi>Slaughter,</hi> and a <hi>Slaughter</hi> he ſhould find of him</p>
+               <p>And this Deponent further ſaith, that ſome others then in the Company of the ſaid <hi>Slaughter,</hi> ſaid that they would ſecure his Body, and ſome others his Soul, for that neither was his own.</p>
+               <closer>
+                  <signed>Randal Goſley.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>
+                  <hi>The <g ref="char:V">Ʋ</g>olluntary Depoſition, of</hi> William Ellis <hi>of</hi> Dover <hi>Marriner; taken as followeth.</hi>
+               </head>
+               <p>THis Deponent maketh Oath, that coming from <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to <hi>Rye,</hi> in the County of <hi>Suſſex;</hi> paſſed by the way of <hi>Lyd,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> and at a place called <hi>Broomhil Houſe,</hi> on this ſide <hi>Lyd</hi> aforeſaid; the Depo<g ref="char:EOLhyphen"/>nent met with two Men on Horſeback, who askt this Deponent whether he was going, he anſwered for <hi>Gilford-Ferry</hi> in order to <hi>Rye;</hi> one of them Swore (God-<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>am-you) you are one of the Rogues that was at <hi>Lyd</hi> laſt night, and if they thought this Deponent was one (they would ſhare him) meaning as this Deponent beleives, in Sea terms, dividing of him; but he, this Deponent uſing good Language, and telling them he was not the Perſon they took him for, they let him paſs,</p>
+               <p>But, when this Deponent came to <hi>Gilford-Ferry,</hi> there was one <hi>John Smith</hi> of <hi>Gilford,</hi> came in with a Bottle of Wine in his hand, and coming where this Deponent ſat by the Fire ſide, he Swore (by God) this is one of the Rogues b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>longing to the Sloops, and ſaid let us <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ind hin neck and heels, and ſhare him, the ſaid <hi>Smith</hi> further ſaid, there lyes <hi>Warners Horſe,</hi> and he knew who ſhot him with a Slug, by which the horſe fell downe, but roſe againe, and ſome Perſon knockt him downe with a Clubb; and upon the ſame Shot. This De<g ref="char:EOLhyphen"/>ponent herd <hi>John Smith</hi> of <hi>Gilford,</hi> ſay, that the Blood guſhed from the <hi>Horſe<g ref="char:punc">▪</g>
+                  </hi> and he further ſaith, that could he light of Mr. <hi>Webb, John Warner, Henry Spillet,</hi> or any of the Sloops-crew; they would certainly Kill them. And further this Deponent ſaith not. <hi>William Ellis.</hi>
+               </p>
+               <closer>
+                  <date>
+                     <hi>Jurat Corum me Treſime, dio</hi> Decembres Anno. Dom. 1688.</date>
+                  <signed>
+                     <hi>Ditto</hi> John Spaine <hi>Mayor.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Theſe are all True Coppys of the Original upon Record, here examined by me.</hi> 
+                  </p>
+                  <closer>
+                     <signed>Henry Darington <hi>Town-Clerk; and</hi> Publique Notory, <hi>of the Antient Town of</hi> Rye, Suſſex.</signed>
+                  </closer>
+               </postscript>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="25" facs="tcp:48712:20"/>
+            <head>Poſtſcript.</head>
+            <p>I Would not omit one Paſſage, which may be very obſervable, That after I had taken up, and bound over to the Aſſizes, the Perſons mentioned, <hi>Page</hi> 21. the Mayor and Jurots of <hi>Rumny</hi> occaſionally came to my Lodging the ſame Ev'ning, with whom I had a long Debate, I reaſoning with them about the evil conſequence of <hi>Tranſportation of Wool,</hi> and that many, if not moſt of the <hi>Tranſporters,</hi> when they came to dye were found worſe than nothing; the reaſons I then alledged, was the evil committed, was not only againſt the Intereſt of <hi>England</hi> in general, but many Thou<g ref="char:EOLhyphen"/>ſand poor People were ruin'd by it, ſo it was a juſt occaſion to blaſt all the Proceedings of ſuch Perſons, inſomuch, that in the cloſe of that Diſcourſe, Two of the Company confeſt the Truth of what I had urged; one of which Perſons had been Convicted for <hi>Tranſportation of Wool,</hi> on the <hi>Statate</hi> that makes the Forfeiture of <hi>three ſhillings per l.</hi> and had Execution taken out againſt him for the ſame the <hi>Term</hi> before; the other Perſon was the then Mayor of another neigh<g ref="char:EOLhyphen"/>bouring Corporation: But whilſt I was in diſcourſe with the ſaid Mayor and Jurots, ſome of the <hi>Tranſporters,</hi> which I had that day bound over to the <hi>Aſſizes,</hi> came to my Men, and their conver<g ref="char:EOLhyphen"/>ſation was like to end in Bloud, had I not been very importunate with the Mayor to keep the Peace, and to diſmiſs the Company, as in the aforeſaid <hi>Affidavit</hi> of <hi>James Webb, John Edwards</hi> and <hi>Henry Spillot,</hi> do alſo appear.</p>
+            <p>Give me leave to add the Abſtract of an <hi>Affidavit</hi> of one of the Perſons that was in the com<g ref="char:EOLhyphen"/>pany of <hi>Rioters</hi> before mentioned, who was the more able to give a full Account of their Num<g ref="char:EOLhyphen"/>ber and Deſign, which perſon being made ſenſible of the evil, came off from them, and was employed by me, and of great advantage in further Diſcoveries, who made his <hi>Affidavit</hi> before Sir <hi>John More,</hi> formerly Lord Mayor of <hi>London,</hi> the ſubſtance of which followeth, <hi>viz.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>This</hi> Deponent <hi>maketh Oath, That upon the</hi> 13th <hi>day of</hi> December 1688, <hi>He was importun'd by</hi> James Hunt <hi>and other</hi> Tranſporters of Wool <hi>about</hi> Rumney, <hi>to purſue Mr.</hi> William Carter, <hi>who ſuddenly after met with a greater number of Men, about one Hundred, who went after the ſaid Mr.</hi> Carter <hi>and his Men, towards</hi> Rye, <hi>and had they not got into ſome Boats, Mr.</hi> Carter <hi>would have re<g ref="char:EOLhyphen"/>ceived ſome hurt, for many of the</hi> Exporters <hi>were Deſperate Fellows, not caring what miſchief they did,</hi>
+                  </p>
+                  <closer>
+                     <signed>William Ralph.</signed>
+                     <date>Jurat' coram Jo. More, Mayor, Septemb. 1. 1690.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>I would crave leave to add to what I only hinted in <hi>Page</hi> 21. That tho' I had taken ſo much pains, and been at ſuch expence and hazard, yet for want of a timely proviſion by a Fund to defray the charge of proſecuting thoſe Informations, there was an Act of Grace and Pardon paſt which diſcharged the ſaid Oflenders; but what aſſiſtance I had at that time was by one Merchant, who alſo did diſburſe ſeveral hundred Pounds in fitting our the ſaid two Veſſels, and one other which was hired, and victualing of them, in expectation of being reimburs'd, which perſon alſo paid the Fees in Paſſing the Act in the Year 1689. to prevent <hi>Exportation of Wool,</hi> (the Title only of which Act have been long depending this laſt Seſſion) and was alſo at ſome expence the Seſſion of Parliament 1692. for the continuance thereof, which Merchant, tho' ſo generous and free for the Publick, having alſo ſeveral Thouſand Pounds due to him for the <hi>Tranſport-Ships</hi> employ'd in the reducing of <hi>Ireland;</hi> and by reaſon that his Trade lay formerly in <hi>Flanders,</hi> now in the <hi>French</hi> Juriſdiction, he is ſomewhat ſtraitned by all theſe means, and to help forward
+<pb n="26" facs="tcp:48712:21"/> his ruine, had 78 Actions laid upon him about one and the ſame time, and the names of ſome of the Plaintiffs he ow'd not one penny to, and beſides to increaſe the charge, ſeveral of the Summs are not above 6 or 7 <hi>l.</hi>
+            </p>
+            <p>I do forbear the naming of Perſons, becauſe I would not expoſe them, but they who are con<g ref="char:EOLhyphen"/>cern'd knows it beſt.</p>
+            <p>And as this ſingle Merchant was prejudic'd by his voluntary expending near one Thouſand Pounds for the Publick, and twice as much more in the <hi>Tranſport-Ships,</hi> ſo the Company of Mer<g ref="char:EOLhyphen"/>chant Adventurers, who had in the year 1685, and 1686. aſſiſted me, and did diſburſe about ſix hundred Pound towards the charge then expended, which Company having been more free than all the other Companies, againſt the <hi>Exportation of Wool,</hi> yet this Company was laid open in the year 1689. by the occaſion of a Bill then depending to prevent <hi>Exportation of Wool, (viz.)</hi> the favourers of the Exporter, of Wool, joyning with ſome other Merchants not of that Company, added that clauſe for the free Exportation of the Woollen Manufacture<g ref="char:punc">▪</g> and by it prevented that clauſe for a Fund to put in Execution the Laws againſt <hi>Exportation of Wool,</hi> the evil conſe<g ref="char:EOLhyphen"/>quence of which hath been ſo much ſeen, and may be more felt hereafter, by which means all that proviſion before mentioned fell to the ground, notwithſtanding which, I being unwilling a matter of ſo great concern to the Nation ſhould wholly be laid aſide, did in the Year 169<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, humbly propoſe to the King in Council, ſome endeavours, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot only to prevent <hi>Exportation <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Wool,</hi> but alſo Trade, Commerce and Correſpondence with <hi>France,</hi> and deſired four Men as my Guard, and alſo the Officers of the Cuſtoms in <hi>Kent</hi> to aſſiſt me. and a Fifth-Rate Frigate to cruiſe on that Coaſt, which being referred to the Lords Commiſſioners of the Treaſury, whoſe Lordſhip; alſo referred the Examination thereof to the Commiſſioners of the Cuſtoms, who made Report thereof as followeth, <hi>viz.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="affidavit">
+               <body>
+                  <p>
+                     <hi>In obedience to your Lordſhips Commands, ſignified to us by Mr.</hi> Jepſon, <hi>of the 13th. inſtant, on the Petition of</hi> William Carter <hi>and Papers thereunto a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>'d. We do humbly Report to your Lordſhips, That we are of opinion, that if the Pteitioner Mr.</hi> Carter <hi>ſhall engage in the Service his Petition re<g ref="char:EOLhyphen"/>lates to, the aſſiſtance of four men on Horſeback, which he can conſide in, is but a reaſonable aſſiſt<g ref="char:EOLhyphen"/>ance to him, and being diligently employed, may very much conduce to the propoſed purpoſes; and we conceive that a nimble Frigate of ſome Force, to cruiſe upon that Coaſt, whoſe Commander may be ſometimes inſtructed by the ſaid Mr.</hi> Carter, <hi>would alſo effectually conduce to the ſame purpoſe, and we think it but reaſonable, that the ſaid Mr.</hi> Carter, <hi>perſonally engaging in the Service at aforeſaid, ſhould be alſo aſſiſted by the Officers of the Cuſtoms, which is humbly ſubmitted to your Lordſhips Conſideration.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Cuſtom-Houſe, London. <date>18 Decemb. 1690.</date>
+                     </dateline>
+                     <signed>
+                        <list>
+                           <item>R. S.</item>
+                           <item>G. B.</item>
+                           <item>J. W.</item>
+                           <item>R. C.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Upon which Report the Lords Commiſſioners of the Treaſury gave direction accordingly.</p>
+            <p>Notwithſtanding I had no manner of ſecurity for Money to defray the charge incident in that ſervice, yet I took out the Orders for my men and that from the Commiſſioners of the Cuſtoms, and goes down into <hi>Kent,</hi> and attended that ſervice till I was forc'd to deſiſt for want of neceſſa<g ref="char:EOLhyphen"/>ry ſupplies; but before I did leave the Sea-Coaſt, I wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the Order of the Queen directed to attempt another Affair in thoſe parts, the effect of which ſervice ended in the method for a Deſcent into <hi>France,</hi> in the beginning of the Year 1692. And whilſt I was attending the Coaſts of <hi>Kent</hi> and <hi>Suſſex,</hi> in the Months of <hi>May</hi> and <hi>June,</hi> found that in order to make the aforeſaid Propoſals more effectual, I did humbly lay before the Queen at the Cabbinet-Council in <hi>July</hi> following ſome further things neceſſary in that affair; but it being referred to the Grand Council, though there were ſeveral objections againſt it, yet I was heard and anſwered theſe Objections, and ob<g ref="char:EOLhyphen"/>tain'd an order upon it, and tho' I took it out, yet there were ſome obſtructions which put a ſtop to my juſt proceedings in this Affair, to the great damage of the Kingdom.</p>
+            <pb n="27" facs="tcp:48712:21"/>
+            <p>The things I then propounded to the Council, and argued for, were as followeth, <hi>viz.</hi>
+            </p>
+            <p n="1">1. The ſecuring of and ſending for an old Tranſporter of Wooll, and lately employed in that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffair, who to aſſiſt others in that evil was put into the <hi>Light-Houſe</hi> by <hi>Rumny</hi> Marſh, by the order <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the then Farmer of it, which Farmer of the <hi>Light-Houſe</hi> having been a long time, not only a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reat Exporter of Wooll, but alſo an Importer of Lace and other prohibited <hi>French</hi> Goods, which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſon was then in <hi>Newgate</hi> for countenancing and abetting of perſons in going to, and coming <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om <hi>France.</hi>
+            </p>
+            <p n="2">2. For two Sloops to attend the Frigat before ordered, as Advice-Boats the ſame I had formerly <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted out of twenty <hi>French</hi> Sloops made ſwift for Sailing.</p>
+            <p n="3">3. For ſome more men to be added to theſe four I had before ordered, where I found moſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anting.</p>
+            <p n="4">4. For to be put in a capacity to proſecute divers Tranſporters of Wool then diſcovered guilty; <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſe were the thing<g ref="char:punc">▪</g> I then deſired.</p>
+            <p>And give me leave to add the ſubſtance of a Letter that I afterwards wrote to one of the then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ords of the Treaſury, that did moſt object againſt me at the Council, <hi>viz.</hi>
+            </p>
+            <floatingText xml:lang="eng" type="letter">
+               <body>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>
+                     <g ref="char:punc">▪</g>As to the Force now uſed both at Sea and on Shore, to attend this Service, it is found not to be ſufficient, becauſe the effects manifeſt it; and the Commiſſioners of the Cuſtoms by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heir ſeveral Reports have declared, that it was beyond the power of their Officers to hinder it; beſides, it was not in their Commiſſion, and therefore not their proper ſtation.</p>
+                  <p>
+                     <g ref="char:punc">▪</g>And as it was with the Commiſſioners of the Cuſtoms, ſo it was with thoſe of the Admiralty, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r they could not exceed the number of the Ships of War, but your Lordſhips, as diſpoſers of Their Majeſties Treaſure, can direct either, as may be both for Their Intereſt, and the Kingdoms good.</p>
+                  <p>
+                     <g ref="char:punc">▪</g>And Sir, what I ſaid at the Council Board will be proved, <hi>viz.</hi> that a Land-Guard alone, will <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> anſwer the end propounded, without ſome Veſſels at Sea, nor they neither, without ſuch as are proper for that ſervice, and to be under the care and directions, either of perſons concern'd <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n intereſt, or known of more than ordinary Integrity, (for the Temptations therein are great) <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> that have been upwards of 20 Years employ'd, have obſerv'd any thing, may be credited.</p>
+                  <p>
+                     <g ref="char:punc">▪</g>And if the <hi>French</hi> King (beſides his Ships of War) doth employ (as I am well inform'd) near <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> hundred ſmall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ops (there being about Forty belonging to <hi>Dunkirk</hi> and <hi>Callis)</hi> for carry<g ref="char:EOLhyphen"/>ing on his deſign, ſhould it be thought ſo great a charge for Their Majeſties to maintain two <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Veſſels in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe parts ſo much needed, over and above the Royal Navy, eſpecially if it be con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dered, formerly in time of Peace, there was always Two Veſſels employed by the Com<g ref="char:EOLhyphen"/>miſſioners of the Cuſtoms, on thoſe Coaſts on purpoſe to prevent Running of Goods, commonly <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Stealing of Cuſtoms.</hi>
+                  </p>
+                  <p>
+                     <g ref="char:punc">▪</g>Sir, give me leave to ſpeak freely now, as I did warmly before your Lordſhips in Council, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is <hi>ſaving a Penny and looſing a Pound;</hi> not that I propounded any private advantage to my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elf in it, as I told your Lordſhips, I could be better content in my private ſtation, but it was for the Publick I was ſo importunate, and had been often complaining in this matter for upwards of Twenty Years, as before, from the fears of thoſe evils we now too much ſee and feel of the power of <hi>France,</hi> inſomuch that it may be eaſily computed, that the <hi>French</hi> hath gained from <hi>England</hi> in this time, almoſt Eighty Millions for want of our care, the particulars I have formerly enlarged.</p>
+                  <p>
+                     <g ref="char:punc">▪</g>To conclude Sir, I do with ſubmiſſion ſay, that what ſervice I have done in this Affair, I have not as yet put the Crown to any charge, for though I have had ſeveral ſums of mony or<g ref="char:EOLhyphen"/>der'd me (meerly for my expence) yet a much greater was firſt brought into the receipt of the Exchequer by my Proſecutions, which are upon Record, and being matter of fact is evident enough.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
